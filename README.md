@@ -4,7 +4,7 @@
 Este proyecto forma parte de un laboratorio orientado a aplicar un flujo completo de Business Intelligence: ETL → Modelado Dimensional → DAX → Storytelling con Power BI.
 
 ## 🎯 Objetivo del Proyecto
-- Desarrollar un informe interactivo que permita comprender el comportamiento comercial de AGROMAQ a través de:
+#### Desarrollar un informe interactivo que permita comprender el comportamiento comercial de AGROMAQ a través de:
 - Rendimiento de ventas por sucursal
 - Identificación de sucursales más relevantes según su contribución al negocio
 - Análisis de estacionalidad de ventas
@@ -64,16 +64,14 @@ Estas medidas habilitan análisis comparativos, estacionales y de composición d
 ### 📈 4. Dashboard Final – Diseño y Contenido del Informe
 El informe consta de una única página integrada, diseñada bajo principios de data storytelling y jerarquía visual, que permite recorrer la información desde la visión general hasta las conclusiones clave del negocio.
 
-### 🟩 Contenido del Dashboard
-1. Visión General (Zona Superior)
+### 🟩 Contenido del Dashboar
 #### Incluye los KPIs estratégicos del negocio:
 - Cantidad de Ventas
 - Total de Ingresos
 - % Ventas Oct–Dic (análisis de estacionalidad)
 - % Ventas Sucursal (participación dinámica según la selección del usuario)
-- Estos indicadores permiten evaluar rápidamente el rendimiento comercial y detectar patrones relevantes.
+Estos indicadores permiten evaluar rápidamente el rendimiento comercial y detectar patrones relevantes.
 
-2. Análisis Detallado (Zona Central)
 #### Visualizaciones principales:
 - Total de Ventas por Mes (2023–2024)<br>
 → Permite identificar tendencias y el pico de ventas en noviembre-diciembre.
@@ -87,7 +85,6 @@ El informe consta de una única página integrada, diseñada bajo principios de 
 - Ventas por Categoría de Producto <br>
 → Permite identificar las líneas más rentables del catálogo.
 
-3. Narrativa Final (Zona Inferior)
 #### Una tarjeta de texto sintetiza los hallazgos más importantes:
 
 - Las sucursales Charata y Resistencia representan el 77.08% del total de ingresos.

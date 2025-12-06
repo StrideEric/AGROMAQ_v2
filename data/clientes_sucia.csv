@@ -1,0 +1,1001 @@
+ClienteID,NombreCliente,TipoCliente,Provincia,Ciudad,Segmento,FechaAlta
+1,Cliente 1,Productor,SANTIAGO,Bandera,Gran productor,2023-03-09
+2,Cliente 2,Contratista,Sta Fe,Rosario,Gran productor,2023-05-14
+3,Cliente 3,Contratista,Sta Fe,Rafaela,Pequeño productor,2023.01.06
+4,Cliente 4,Productor,Córdoba,Río Cuarto,Pequeño productor,2023-02-10
+5,Cliente 5,Productor,chaco,Resistencia,Pequeño productor,2023-05-30
+6,Cliente 6,Empresa Agro,Santa Fe,Rafaela,Pequeño productor,2023-04-11
+7,Cliente 7,Contratista,Sta Fe,Rafaela,Pequeño productor,2023-01-20
+8,Cliente 8,Empresa Agro,Santa fé,Rafaela,Mediano productor,2023-12-03
+9,Cliente 9,Productor,Santa Fe,Rosario,Pequeño productor,2023-08-05
+10,Cliente 10,Contratista,Santiago del Estero,Quimilí,Mediano productor,2023-05-01
+11,Cliente 11,Productor,Santiago del Estero,Quimilí,Contratista,2023-07-12
+12,Cliente 12,Empresa Agro,Córdoba,Villa María,Gran productor,2023-04-04
+13,Cliente 13,Contratista,Sta Fe,Rosario,Contratista,2023-08-10
+14,Cliente 14,Contratista,Sal Ta,Metán,Mediano productor,2023-10-02
+15,Cliente 15,Contratista,Sta Fe,Rosario,Gran productor,2023-11-12
+16,Cliente 16,Contratista,Cordoba,Río Cuarto,Pequeño productor,2023-07-03
+17,Cliente 17,Productor,Santa fé,Rafaela,Mediano productor,2023-05-12
+18,Cliente 18,Contratista,Santa Fe,Rafaela,Gran productor,2023.07.10
+19,Cliente 19,Productor,Santa Fe,Rafaela,,2023-04-01
+20,Cliente 20,Contratista,Santiago del Estero,Quimilí,Contratista,2023-11-14
+21,Cliente 21,Productor,cordoba,Villa María,Gran productor,2023-02-11
+22,Cliente 22,Contratista,Santa Fe,Rosario,Contratista,2023-02-05
+23,Cliente 23,Empresa Agro,Córdoba,Villa María,,2023-09-02
+24,Cliente 24,Productor,Chaco ,Charata,Mediano productor,2023-06-25
+25,Cliente 25,Productor,Santa fé,Rafaela,Contratista,2023-01-02
+26,Cliente 26,Empresa Agro,Cordoba,Río Cuarto,Gran productor,2023-06-24
+27,Cliente 27,Contratista,Santiago del Estero,Quimilí,Mediano productor,2023-11-04
+28,Cliente 28,Empresa Agro,Chaco,Charata,Mediano productor,2023-05-21
+29,Cliente 29,Productor,Santa fé,Rafaela,Contratista,2023-07-01
+30,Cliente 30,Productor,Sal Ta,Güemes,Contratista,2023-10-27
+31,Cliente 31,Productor,Santiago del Estero,Quimilí,Mediano productor,2023-10-03
+32,Cliente 32,Empresa Agro,Santa fé,Rafaela,Contratista,2023-07-07
+33,Cliente 33,Productor,Salta,Metán,Pequeño productor,2023-02-19
+34,Cliente 34,Productor,Chaco ,Villa Ángela,,2023-11-10
+35,Cliente 35,Contratista,Salta,Güemes,Pequeño productor,s/d
+36,Cliente 36,Productor,Chaco,Villa Ángela,Mediano productor,2023-03-18
+37,Cliente 37,Contratista,Salta,Güemes,Gran productor,2023-05-18
+38,Cliente 38,Contratista,Sta Fe,Rafaela,Pequeño productor,2023-01-20
+39,Cliente 39,Productor,Córdoba,Villa María,Pequeño productor,s/d
+40,Cliente 40,Empresa Agro,Córdoba,Río Cuarto,Gran productor,2023-10-22
+41,Cliente 41,Productor,Chaco,Villa Ángela,contratista,2023-05-30
+42,Cliente 42,Empresa Agro,SANTIAGO,Bandera,Pequeño productor,s/d
+43,Cliente 43,Contratista,Sta Fe,Rafaela,Pequeño productor,2023-03-23
+44,Cliente 44,Empresa Agro,Santa Fe,Rosario,Mediano productor,2023-03-12
+45,Cliente 45,Productor,sgo del estero,Bandera,Gran productor,2023-08-03
+46,Cliente 46,Productor,Sta Fe,Rafaela,,2023-01-22
+47,Cliente 47,Productor,Santiago del Estero,Bandera,Pequeño productor,2023-03-21
+48,Cliente 48,Productor,Santa Fe,Rosario,Gran productor,2023-02-21
+49,Cliente 49,Contratista,Santiago del Estero,Bandera,Gran productor,2023-11-26
+50,Cliente 50,Productor,Santiago del Estero,Bandera,Gran productor,s/d
+51,Cliente 51,Contratista,Santa Fe,Rafaela,Mediano productor,s/d
+52,Cliente 52,Productor,Córdoba,Villa María,Pequeño productor,2023-12-14
+53,Cliente 53,Contratista,CHAco,Villa Ángela,Mediano productor,2023-05-16
+54,Cliente 54,Contratista,Córdoba,Río Cuarto,Gran productor,s/d
+55,Cliente 55,Productor,Santiago del Estero,Bandera,Gran productor,2023-01-01
+56,Cliente 56,Productor,Chaco,Villa Ángela,Pequeño productor,s/d
+57,Cliente 57,Productor,Santiago del Estero,Bandera,Mediano productor,2023-05-22
+58,Cliente 58,Productor,Córdoba,Río Cuarto,Gran productor,2023-05-06
+59,Cliente 59,Contratista,Santiago del Estero,Bandera,Gran productor,2023-03-01
+60,Cliente 60,Empresa Agro,Salta,Metán,Contratista,2023-02-19
+61,Cliente 61,Empresa Agro,Santa Fe,Rosario,Contratista,2023-09-12
+62,Cliente 62,Contratista,SANTIAGO,Quimilí,Mediano productor,2023-01-01
+63,Cliente 63,Empresa Agro,Sal Ta,Güemes,Prod.,2023.06.09
+64,Cliente 64,Contratista,sgo del estero,Quimilí,Mediano productor,2023-04-11
+65,Cliente 65,Contratista,Santiago del Estero,Bandera,Mediano productor,2023-08-11
+66,Cliente 66,Contratista,Salta,Güemes,Contratista,2023-12-22
+67,Cliente 67,Contratista,Santa fé,Rafaela,Gran productor,s/d
+68,Cliente 68,Empresa Agro,CBA,Río Cuarto,Mediano productor,s/d
+69,Cliente 69,Productor,Chaco,Villa Ángela,Pequeño productor,2023-09-25
+70,Cliente 70,Empresa Agro,Santa fé,Rafaela,Mediano productor,2023-02-09
+71,Cliente 71,Productor,Córdoba,Villa María,Pequeño productor,2023-07-14
+72,Cliente 72,Contratista,Santa Fe,Rosario,Mediano productor,s/d
+73,Cliente 73,Empresa Agro,cordoba,Villa María,Contratista,2023-07-08
+74,Cliente 74,Contratista,Córdoba,Río Cuarto,Pequeño productor,s/d
+75,Cliente 75,Productor,Córdoba,Río Cuarto,Mediano productor,2023.06.29
+76,Cliente 76,Empresa Agro,Chaco,Charata,Gran productor,2023-04-03
+77,Cliente 77,Contratista,Santa Fe,Rafaela,Gran productor,2023-08-22
+78,Cliente 78,Productor,Sgo.,Bandera,Mediano productor,2023-05-20
+79,Cliente 79,Empresa Agro,Santiago del Estero,Quimilí,Gran productor,2023-04-02
+80,Cliente 80,Empresa Agro,Santa fé,Rafaela,Mediano productor,2023-04-14
+81,Cliente 81,Empresa Agro,Santiago del Estero,Bandera,contratista,2023-07-01
+82,Cliente 82,Productor,Córdoba,Villa María,Mediano productor,2023-07-13
+83,Cliente 83,Contratista,Cordoba,Río Cuarto,Contratista,2023-01-31
+84,Cliente 84,Contratista,Sal Ta,Metán,Mediano productor,2023-06-26
+85,Cliente 85,Contratista,Santiago del Estero,Quimilí,Mediano productor,2023-04-30
+86,Cliente 86,Empresa Agro,Córdoba,Río Cuarto,Contratista,2023-04-07
+87,Cliente 87,Empresa Agro,Córdoba,Río Cuarto,Gran productor,2023-03-24
+88,Cliente 88,Productor,Córdoba,Villa María,Mediano productor,2023-06-18
+89,Cliente 89,Productor,cordoba,Río Cuarto,Contratista,2023.07.29
+90,Cliente 90,Productor,salta,Metán,Gran productor,2023-09-15
+91,Cliente 91,Contratista,Salta,Metán,Contratista,2023-07-30
+92,Cliente 92,Empresa Agro,Salta,Metán,Contratista,2023-08-06
+93,Cliente 93,Contratista,sgo del estero,Quimilí,Mediano productor,2023-03-18
+94,Cliente 94,Contratista,Córdoba,Villa María,Gran productor,2023.12.31
+95,Cliente 95,Empresa Agro,Córdoba,Río Cuarto,Gran productor,2023-11-11
+96,Cliente 96,Empresa Agro,Salta,Metán,Contratista,s/d
+97,Cliente 97,Contratista,Salta,Metán,Mediano productor,2023-04-14
+98,Cliente 98,Empresa Agro,Cordoba,Villa María,Contratista,2023-12-22
+99,Cliente 99,Empresa Agro,Córdoba,Río Cuarto,Mediano productor,s/d
+100,Cliente 100,Contratista,Córdoba,Río Cuarto,Pequeño productor,2023-01-19
+101,Cliente 101,Productor,sgo del estero,Bandera,Gran productor,2023-02-09
+102,Cliente 102,Productor,Córdoba,Villa María,Mediano productor,2023-10-21
+103,Cliente 103,Empresa Agro,Salta,Metán,Mediano productor,2023-06-08
+104,Cliente 104,Contratista,Córdoba,Villa María,Mediano productor,2023.05.31
+105,Cliente 105,Productor,salta,Metán,Pequeño productor,s/d
+106,Cliente 106,Productor,Sta Fe,Rosario,Pequeño productor,2023-11-24
+107,Cliente 107,Productor,Santa Fe,Rosario,Pequeño productor,2023-06-09
+108,Cliente 108,Productor,Sta Fe,Rafaela,Gran productor,2023-12-07
+109,Cliente 109,Empresa Agro,Córdoba,Villa María,Gran productor,2023.08.19
+110,Cliente 110,Empresa Agro,Córdoba,Río Cuarto,,2023-09-11
+111,Cliente 111,Empresa Agro,Santa fé,Rafaela,Mediano productor,2023-10-06
+112,Cliente 112,Contratista,Sta Fe,Rafaela,Pequeño productor,2023-08-26
+113,Cliente 113,Contratista,Chaco,Villa Ángela,Pequeño productor,2023-05-18
+114,Cliente 114,Productor,cordoba,Río Cuarto,Gran productor,2023.04.30
+115,Cliente 115,Empresa Agro,Salta,Metán,Contratista,2023-10-04
+116,Cliente 116,Empresa Agro,Chaco,Resistencia,Pequeño productor,2023-07-12
+117,Cliente 117,Contratista,Sta Fe,Rafaela,Pequeño productor,2023.02.11
+118,Cliente 118,Productor,Santiago del Estero,Quimilí,Mediano productor,2023-12-07
+119,Cliente 119,Empresa Agro,chaco,Charata,Pequeño productor,2023-09-22
+120,Cliente 120,Productor,Salta,Güemes,,2023.08.31
+121,Cliente 121,Empresa Agro,Santa Fe,Rafaela,Contratista,2023-01-08
+122,Cliente 122,Empresa Agro,Córdoba,Río Cuarto,Contratista,2023-04-05
+123,Cliente 123,Empresa Agro,Santiago del Estero,Quimilí,Gran productor,2023-07-31
+124,Cliente 124,Contratista,Chaco,Villa Ángela,Contratista,2023-09-21
+125,Cliente 125,Productor,Santiago del Estero,Bandera,Mediano productor,s/d
+126,Cliente 126,Contratista,Santa Fe,Rosario,Gran productor,2023-01-12
+127,Cliente 127,Productor,Chaco,Villa Ángela,Pequeño productor,2023-07-20
+128,Cliente 128,Productor,cordoba,Río Cuarto,Pequeño productor,2023-08-31
+129,Cliente 129,Productor,Salta,Güemes,,2023-04-01
+130,Cliente 130,Productor,Córdoba,Río Cuarto,Mediano productor,2023.06.26
+131,Cliente 131,Empresa Agro,Santa fé,Rosario,Mediano productor,2023-11-29
+132,Cliente 132,Empresa Agro,Sal Ta,Metán,Pequeño productor,2023-01-09
+133,Cliente 133,Contratista,Santa Fe,Rafaela,Mediano productor,2023-02-08
+134,Cliente 134,Empresa Agro,sgo del estero,Bandera,Mediano productor,2023-08-30
+135,Cliente 135,Empresa Agro,Chaco,Resistencia,Pequeño productor,2023-11-16
+136,Cliente 136,Productor,Salta,Metán,Pequeño productor,s/d
+137,Cliente 137,Empresa Agro,Chaco,Resistencia,Contratista,2023-05-10
+138,Cliente 138,Empresa Agro,Salta,Metán,Mediano productor,2023-08-30
+139,Cliente 139,Contratista,Santa Fe,Rosario,Mediano productor,2023-09-26
+140,Cliente 140,Productor,Córdoba,Río Cuarto,Gran productor,2023-02-27
+141,Cliente 141,Productor,Chaco,Charata,Contratista,2023-10-06
+142,Cliente 142,Empresa Agro,Santiago del Estero,Quimilí,Gran productor,2023-04-26
+143,Cliente 143,Empresa Agro,Chcao,Resistencia,Gran productor,2023-05-24
+144,Cliente 144,Productor,Córdoba,Río Cuarto,Gran productor,2023-05-06
+145,Cliente 145,Empresa Agro,Chaco,Charata,contratista,2023-07-19
+146,Cliente 146,Contratista,santa fe,Rafaela,Mediano productor,2023-09-02
+147,Cliente 147,Productor,Salta,Metán,Pequeño productor,2023-11-03
+148,Cliente 148,Empresa Agro,Sal Ta,Metán,Gran productor,2023-04-24
+149,Cliente 149,Productor,salta,Güemes,Contratista,2023-02-23
+150,Cliente 150,Productor,Córdoba,Río Cuarto,Gran productor,2023-10-01
+151,Cliente 151,Productor,Santiago del Estero,Bandera,Gran productor,2023-07-06
+152,Cliente 152,Contratista,Córdoba,Villa María,Gran productor,2023-10-13
+153,Cliente 153,Contratista,CHAco,Resistencia,Contratista,s/d
+154,Cliente 154,Productor,Chaco,Villa Ángela,Pequeño productor,2023-01-02
+155,Cliente 155,Empresa Agro,Santiago del Estero,Quimilí,Contratista,2023-01-11
+156,Cliente 156,Productor,Córdoba,Río Cuarto,Pequeño productor,2023-08-11
+157,Cliente 157,Contratista,Santiago del Estero,Bandera,Gran productor,2023-12-28
+158,Cliente 158,Productor,Santa Fe,Rosario,Pequeño productor,2023-10-07
+159,Cliente 159,Contratista,Sta Fe,Rafaela,Pequeño productor,s/d
+160,Cliente 160,Productor,Salta,Metán,Pequeño productor,s/d
+161,Cliente 161,Empresa Agro,Sal Ta,Metán,Gran productor,2023-04-06
+162,Cliente 162,Productor,Córdoba,Río Cuarto,,2023-11-15
+163,Cliente 163,Contratista,Chaco,Charata,Gran productor,2023-11-13
+164,Cliente 164,Contratista,Santiago del Estero,Quimilí,Contratista,2023-10-25
+165,Cliente 165,Contratista,Chaco,Charata,Pequeño productor,2023-10-03
+166,Cliente 166,Productor,CHAco,Resistencia,Mediano productor,2023-01-28
+167,Cliente 167,Productor,Chaco,Villa Ángela,Contratista,2023-03-19
+168,Cliente 168,Empresa Agro,Chcao,Resistencia,Contratista,2023-12-15
+169,Cliente 169,Productor,Santiago del Estero,Bandera,Mediano productor,2023-12-04
+170,Cliente 170,Contratista,Santa Fe,Rafaela,Gran productor,2023-06-22
+171,Cliente 171,Empresa Agro,Chcao,Villa Ángela,Pequeño productor,2023-01-17
+172,Cliente 172,Empresa Agro,Chaco,Charata,Gran productor,2023-11-09
+173,Cliente 173,Contratista,Santa Fe,Rafaela,Mediano productor,2023-03-13
+174,Cliente 174,Contratista,Chaco,Resistencia,Gran productor,2023-05-30
+175,Cliente 175,Empresa Agro,Santa fé,Rafaela,,s/d
+176,Cliente 176,Contratista,CBA,Villa María,Gran productor,2023-03-28
+177,Cliente 177,Contratista,Salta,Metán,Contratista,2023-11-21
+178,Cliente 178,Productor,Santa fé,Rafaela,Contratista,s/d
+179,Cliente 179,Contratista,salta,Güemes,Mediano productor,2023.11.04
+180,Cliente 180,Productor,CHAco,Resistencia,Mediano productor,2023-11-19
+181,Cliente 181,Productor,SANTIAGO,Bandera,Gran productor,2023-03-22
+182,Cliente 182,Productor,CHAco,Resistencia,Gran productor,2023-05-24
+183,Cliente 183,Empresa Agro,Santa fé,Rosario,Mediano productor,2023-02-25
+184,Cliente 184,Empresa Agro,Sal Ta,Metán,,s/d
+185,Cliente 185,Empresa Agro,Santa fé,Rafaela,,2023-04-01
+186,Cliente 186,Empresa Agro,Salta,Metán,Gran productor,2023-08-09
+187,Cliente 187,Empresa Agro,Santa Fe,Rosario,Prod.,2023-04-16
+188,Cliente 188,Contratista,Salta,Güemes,Gran productor,2023-04-19
+189,Cliente 189,Empresa Agro,Salta,Metán,Mediano productor,s/d
+190,Cliente 190,Empresa Agro,Córdoba,Río Cuarto,Contratista,2023-07-12
+191,Cliente 191,Empresa Agro,Santa Fe,Rosario,Gran productor,s/d
+192,Cliente 192,Empresa Agro,Chaco,Charata,Mediano productor,2023-06-17
+193,Cliente 193,Productor,Córdoba,Villa María,Mediano productor,2023-09-16
+194,Cliente 194,Empresa Agro,Santa fé,Rafaela,Contratista,2023-02-26
+195,Cliente 195,Empresa Agro,Santiago del Estero,Bandera,contratista,2023-05-16
+196,Cliente 196,Contratista,Santa Fe,Rafaela,Pequeño productor,2023.03.03
+197,Cliente 197,Empresa Agro,Santiago del Estero,Quimilí,Contratista,2023-09-21
+198,Cliente 198,Contratista,Chaco,Resistencia,Gran productor,2023-10-14
+199,Cliente 199,Productor,Chaco,Villa Ángela,contratista,2023.01.14
+200,Cliente 200,Contratista,Córdoba,Villa María,Mediano productor,2023-02-06
+201,Cliente 201,Empresa Agro,Santa Fe,Rosario,Pequeño productor,2023-04-15
+202,Cliente 202,Empresa Agro,Santiago del Estero,Bandera,Mediano productor,2023.08.17
+203,Cliente 203,Contratista,Cordoba,Río Cuarto,Pequeño productor,2023-02-08
+204,Cliente 204,Contratista,Salta,Güemes,Contratista,2023.07.27
+205,Cliente 205,Contratista,salta,Metán,Mediano productor,2023.07.24
+206,Cliente 206,Productor,Chaco,Villa Ángela,Contratista,2023-04-30
+207,Cliente 207,Contratista,Córdoba,Río Cuarto,Gran productor,s/d
+208,Cliente 208,Contratista,Santa Fe,Rafaela,Mediano productor,2023-06-25
+209,Cliente 209,Contratista,CHAco,Villa Ángela,Mediano productor,2023-07-19
+210,Cliente 210,Empresa Agro,Santiago del Estero,Bandera,contratista,2023-08-22
+211,Cliente 211,Productor,Santa fé,Rafaela,Mediano productor,2023.09.19
+212,Cliente 212,Contratista,Sal Ta,Güemes,Contratista,2023-06-23
+213,Cliente 213,Empresa Agro,Santiago del Estero,Quimilí,Mediano productor,2023-11-06
+214,Cliente 214,Contratista,Santa Fe,Rafaela,Pequeño productor,2023-04-13
+215,Cliente 215,Empresa Agro,CHAco,Charata,Pequeño productor,2023-06-03
+216,Cliente 216,Productor,Sta Fe,Rosario,Pequeño productor,2023-06-03
+217,Cliente 217,Empresa Agro,Chaco,Resistencia,Mediano productor,2023-10-13
+218,Cliente 218,Productor,Santiago del Estero,Bandera,Mediano productor,2023-10-21
+219,Cliente 219,Contratista,Santa Fe,Rosario,Mediano productor,2023-04-01
+220,Cliente 220,Empresa Agro,SANTIAGO,Bandera,Pequeño productor,s/d
+221,Cliente 221,Productor,Chaco ,Charata,Mediano productor,2023.02.02
+222,Cliente 222,Contratista,Santiago del Estero,Bandera,Pequeño productor,2023-01-24
+223,Cliente 223,Productor,chaco,Villa Ángela,Contratista,s/d
+224,Cliente 224,Productor,Chaco,Charata,Mediano productor,s/d
+225,Cliente 225,Empresa Agro,Chcao,Charata,Contratista,2023.03.28
+226,Cliente 226,Contratista,Santa Fe,Rosario,Gran productor,2023-11-28
+227,Cliente 227,Productor,Sgo.,Bandera,contratista,2023-07-06
+228,Cliente 228,Productor,salta,Güemes,Contratista,2023-02-04
+229,Cliente 229,Productor,Sgo.,Quimilí,Pequeño productor,2023-12-12
+230,Cliente 230,Productor,Chaco,Villa Ángela,Mediano productor,2023.06.10
+231,Cliente 231,Productor,salta,Güemes,Contratista,2023.03.21
+232,Cliente 232,Contratista,SANTIAGO,Quimilí,,2023-02-21
+233,Cliente 233,Productor,Salta,Metán,Mediano productor,2023-06-05
+234,Cliente 234,Productor,salta,Güemes,Contratista,2023-09-13
+235,Cliente 235,Empresa Agro,Chaco,Charata,Pequeño productor,2023-10-08
+236,Cliente 236,Productor,Chaco,Resistencia,contratista,2023.06.18
+237,Cliente 237,Productor,Sgo.,Bandera,Mediano productor,2023.07.10
+238,Cliente 238,Contratista,Santa Fe,Rafaela,Pequeño productor,2023-05-28
+239,Cliente 239,Contratista,Santa Fe,Rosario,Gran productor,2023-04-16
+240,Cliente 240,Empresa Agro,Santa fé,Rafaela,Contratista,s/d
+241,Cliente 241,Empresa Agro,CBA,Villa María,Contratista,2023-03-27
+242,Cliente 242,Empresa Agro,Chaco,Resistencia,Contratista,2023-07-03
+243,Cliente 243,Contratista,Salta,Metán,Contratista,s/d
+244,Cliente 244,Contratista,SANTIAGO,Quimilí,Mediano productor,2023-11-14
+245,Cliente 245,Empresa Agro,CHAco,Charata,Pequeño productor,2023-03-12
+246,Cliente 246,Contratista,Chaco,Villa Ángela,Contratista,2023.08.25
+247,Cliente 247,Contratista,Salta,Metán,Contratista,2023.05.29
+248,Cliente 248,Productor,Córdoba,Villa María,Mediano productor,2023-07-23
+249,Cliente 249,Empresa Agro,santa fe,Rafaela,Pequeño productor,2023-06-09
+250,Cliente 250,Empresa Agro,Salta,Güemes,Pequeño productor,2023.11.19
+251,Cliente 251,Productor,Córdoba,Villa María,Mediano productor,2023-08-21
+252,Cliente 252,Contratista,Santa Fe,Rafaela,Mediano productor,2023-04-24
+253,Cliente 253,Empresa Agro,Córdoba,Río Cuarto,Gran productor,2023-08-17
+254,Cliente 254,Empresa Agro,Chcao,Resistencia,Prod.,2023-05-30
+255,Cliente 255,Productor,Santa Fe,Rosario,Pequeño productor,2023-08-28
+256,Cliente 256,Productor,Salta,Metán,Mediano productor,2023.08.18
+257,Cliente 257,Contratista,Santa Fe,Rafaela,Pequeño productor,2023.06.09
+258,Cliente 258,Empresa Agro,Santa Fe,Rafaela,Pequeño productor,2023-01-03
+259,Cliente 259,Productor,Córdoba,Villa María,Prod.,2023-05-02
+260,Cliente 260,Contratista,Cordoba,Río Cuarto,Mediano productor,s/d
+261,Cliente 261,Productor,Córdoba,Río Cuarto,Pequeño productor,2023-06-25
+262,Cliente 262,Contratista,Santiago del Estero,Quimilí,Gran productor,2023-01-15
+263,Cliente 263,Contratista,Córdoba,Río Cuarto,Gran productor,2023-08-17
+264,Cliente 264,Contratista,Sal Ta,Güemes,Mediano productor,2023-12-14
+265,Cliente 265,Productor,Sta Fe,Rafaela,Pequeño productor,2023-03-22
+266,Cliente 266,Contratista,Salta,Güemes,Mediano productor,s/d
+267,Cliente 267,Contratista,Salta,Güemes,Gran productor,2023-05-21
+268,Cliente 268,Empresa Agro,Córdoba,Río Cuarto,Gran productor,2023-05-21
+269,Cliente 269,Productor,Sgo.,Bandera,contratista,2023-10-21
+270,Cliente 270,Empresa Agro,Chaco,Resistencia,Mediano productor,s/d
+271,Cliente 271,Contratista,Santa Fe,Rafaela,Mediano productor,s/d
+272,Cliente 272,Contratista,Sta Fe,Rosario,Mediano productor,2023-01-16
+273,Cliente 273,Empresa Agro,Santa Fe,Rosario,Contratista,s/d
+274,Cliente 274,Productor,Córdoba,Villa María,Mediano productor,2023.10.31
+275,Cliente 275,Empresa Agro,Sal Ta,Metán,Gran productor,s/d
+276,Cliente 276,Contratista,Santa Fe,Rosario,Mediano productor,2023-06-05
+277,Cliente 277,Productor,Chaco,Charata,Contratista,2023-01-23
+278,Cliente 278,Empresa Agro,Cordoba,Villa María,Contratista,2023-06-10
+279,Cliente 279,Productor,Chaco,Resistencia,Pequeño productor,2023.03.30
+280,Cliente 280,Contratista,SANTIAGO,Bandera,Pequeño productor,2023-04-15
+281,Cliente 281,Contratista,Santa Fe,Rafaela,Mediano productor,2023.05.01
+282,Cliente 282,Empresa Agro,Chaco,Resistencia,Gran productor,2023-02-02
+283,Cliente 283,Contratista,Santa Fe,Rosario,Pequeño productor,2023-01-01
+284,Cliente 284,Contratista,Sal Ta,Güemes,Mediano productor,s/d
+285,Cliente 285,Empresa Agro,Santa Fe,Rosario,Contratista,2023-07-14
+286,Cliente 286,Empresa Agro,Chaco,Charata,Mediano productor,2023-07-16
+287,Cliente 287,Contratista,Sal Ta,Güemes,Mediano productor,2023-05-19
+288,Cliente 288,Contratista,Santiago del Estero,Bandera,Gran productor,2023-05-25
+289,Cliente 289,Contratista,Chcao,Charata,Mediano productor,2023-05-07
+290,Cliente 290,Productor,Salta,Güemes,Mediano productor,2023-01-15
+291,Cliente 291,Productor,Córdoba,Río Cuarto,Gran productor,2023-05-23
+292,Cliente 292,Productor,Salta,Güemes,Mediano productor,2023-02-23
+293,Cliente 293,Empresa Agro,Chaco,Charata,Pequeño productor,2023-11-05
+294,Cliente 294,Empresa Agro,Córdoba,Río Cuarto,Gran productor,2023-12-24
+295,Cliente 295,Productor,santa fe,Rafaela,Gran productor,2023-05-29
+296,Cliente 296,Empresa Agro,Santiago del Estero,Bandera,Gran productor,2023.09.30
+297,Cliente 297,Empresa Agro,Sta Fe,Rosario,contratista,2023-09-18
+298,Cliente 298,Productor,Salta,Metán,Pequeño productor,2023-01-27
+299,Cliente 299,Contratista,Santiago del Estero,Bandera,Mediano productor,2023-07-02
+300,Cliente 300,Empresa Agro,Chaco,Charata,Pequeño productor,s/d
+301,Cliente 301,Contratista,Salta,Güemes,Mediano productor,2023-06-29
+302,Cliente 302,Productor,Santiago del Estero,Quimilí,Contratista,2023-12-31
+303,Cliente 303,Contratista,Santa fé,Rosario,Mediano productor,2023-05-04
+304,Cliente 304,Productor,Córdoba,Río Cuarto,Pequeño productor,2023-08-26
+305,Cliente 305,Contratista,Santa Fe,Rafaela,Pequeño productor,2023-03-18
+306,Cliente 306,Productor,Córdoba,Villa María,Prod.,2023-06-07
+307,Cliente 307,Contratista,Sal Ta,Güemes,Contratista,2023-12-31
+308,Cliente 308,Productor,Sgo.,Bandera,Mediano productor,2023-12-16
+309,Cliente 309,Productor,Santiago del Estero,Bandera,Pequeño productor,2023-07-16
+310,Cliente 310,Contratista,Salta,Güemes,Contratista,2023-11-15
+311,Cliente 311,Contratista,Córdoba,Villa María,Mediano productor,2023-11-08
+312,Cliente 312,Empresa Agro,Chcao,Villa Ángela,Pequeño productor,2023-02-04
+313,Cliente 313,Empresa Agro,Santa Fe,Rosario,Contratista,2023-02-10
+314,Cliente 314,Productor,salta,Metán,Pequeño productor,2023-12-03
+315,Cliente 315,Contratista,Santa Fe,Rosario,Mediano productor,2023-05-04
+316,Cliente 316,Productor,Salta,Güemes,Mediano productor,2023-02-12
+317,Cliente 317,Empresa Agro,Córdoba,Río Cuarto,Pequeño productor,s/d
+318,Cliente 318,Empresa Agro,Chaco,Charata,Pequeño productor,2023-03-12
+319,Cliente 319,Productor,Santa Fe,Rosario,Mediano productor,s/d
+320,Cliente 320,Productor,Sgo.,Bandera,contratista,2023-10-16
+321,Cliente 321,Empresa Agro,Chaco,Resistencia,Gran productor,2023-01-25
+322,Cliente 322,Productor,salta,Metán,Gran productor,2023-11-07
+323,Cliente 323,Empresa Agro,Santa Fe,Rosario,Pequeño productor,2023-09-30
+324,Cliente 324,Contratista,santa fe,Rosario,Contratista,2023-04-04
+325,Cliente 325,Empresa Agro,Santiago del Estero,Quimilí,,2023.07.28
+326,Cliente 326,Empresa Agro,SANTIAGO,Bandera,Pequeño productor,2023-06-04
+327,Cliente 327,Empresa Agro,Santiago del Estero,Quimilí,Pequeño productor,2023-12-19
+328,Cliente 328,Contratista,Chaco,Charata,Contratista,2023-01-29
+329,Cliente 329,Contratista,Córdoba,Villa María,Mediano productor,2023-08-16
+330,Cliente 330,Productor,salta,Güemes,Gran productor,2023-01-12
+331,Cliente 331,Productor,salta,Metán,Gran productor,2023.03.03
+332,Cliente 332,Empresa Agro,Santa Fe,Rosario,Contratista,2023-08-11
+333,Cliente 333,Contratista,Chaco,Charata,Pequeño productor,2023-04-25
+334,Cliente 334,Contratista,Córdoba,Villa María,Gran productor,2023-08-24
+335,Cliente 335,Empresa Agro,Santa Fe,Rosario,Contratista,2023-03-04
+336,Cliente 336,Contratista,salta,Metán,Gran productor,2023-05-18
+337,Cliente 337,Productor,Santiago del Estero,Bandera,Pequeño productor,2023-04-22
+338,Cliente 338,Productor,Córdoba,Río Cuarto,Mediano productor,2023-11-19
+339,Cliente 339,Empresa Agro,Córdoba,Villa María,Pequeño productor,2023-05-11
+340,Cliente 340,Productor,Chaco,Charata,Gran productor,2023-09-15
+341,Cliente 341,Empresa Agro,Córdoba,Río Cuarto,Gran productor,2023-06-26
+342,Cliente 342,Empresa Agro,Santa Fe,Rafaela,Contratista,2023-10-22
+343,Cliente 343,Contratista,Córdoba,Villa María,Gran productor,2023-10-24
+344,Cliente 344,Empresa Agro,Salta,Güemes,Gran productor,2023-02-17
+345,Cliente 345,Empresa Agro,Santiago del Estero,Bandera,contratista,2023-03-16
+346,Cliente 346,Contratista,Córdoba,Villa María,Pequeño productor,2023-08-07
+347,Cliente 347,Contratista,Córdoba,Villa María,Contratista,2023.12.06
+348,Cliente 348,Contratista,Chaco,Resistencia,Mediano productor,2023-03-28
+349,Cliente 349,Productor,Salta,Metán,Contratista,2023-01-21
+350,Cliente 350,Contratista,Chaco,Charata,,2023-04-03
+351,Cliente 351,Empresa Agro,sgo del estero,Bandera,Mediano productor,s/d
+352,Cliente 352,Contratista,CHAco,Villa Ángela,Mediano productor,2023-12-02
+353,Cliente 353,Productor,cordoba,Villa María,Gran productor,2023.05.22
+354,Cliente 354,Productor,sgo del estero,Bandera,Gran productor,2023-06-12
+355,Cliente 355,Empresa Agro,Santiago del Estero,Quimilí,Gran productor,2023-12-07
+356,Cliente 356,Productor,Córdoba,Villa María,Gran productor,2023-02-26
+357,Cliente 357,Productor,SANTIAGO,Bandera,Gran productor,2023-10-01
+358,Cliente 358,Empresa Agro,Santa Fe,Rosario,Gran productor,2023-09-22
+359,Cliente 359,Empresa Agro,Santiago del Estero,Quimilí,Contratista,2023-04-15
+360,Cliente 360,Empresa Agro,Sal Ta,Güemes,Contratista,2023.09.25
+361,Cliente 361,Contratista,salta,Güemes,Gran productor,2023-06-09
+362,Cliente 362,Productor,Córdoba,Villa María,Contratista,2023-06-12
+363,Cliente 363,Productor,Chaco,Villa Ángela,Pequeño productor,2023-11-25
+364,Cliente 364,Productor,Chaco,Charata,Mediano productor,2023-08-11
+365,Cliente 365,Contratista,SANTIAGO,Quimilí,Mediano productor,2023-04-19
+366,Cliente 366,Empresa Agro,Santiago del Estero,Quimilí,Gran productor,2023-01-09
+367,Cliente 367,Productor,CBA,Villa María,Pequeño productor,2023-11-01
+368,Cliente 368,Productor,Córdoba,Villa María,Gran productor,2023-01-21
+369,Cliente 369,Empresa Agro,Santa Fe,Rafaela,Pequeño productor,2023-12-09
+370,Cliente 370,Contratista,Sta Fe,Rafaela,Pequeño productor,2023-03-25
+371,Cliente 371,Contratista,Santa Fe,Rafaela,Gran productor,2023-06-03
+372,Cliente 372,Empresa Agro,Santiago del Estero,Quimilí,Mediano productor,2023-02-20
+373,Cliente 373,Productor,CBA,Villa María,Pequeño productor,2023-05-22
+374,Cliente 374,Empresa Agro,Santa Fe,Rosario,Contratista,2023-03-29
+375,Cliente 375,Empresa Agro,Santa Fe,Rosario,Gran productor,2023-04-18
+376,Cliente 376,Productor,Salta,Güemes,Mediano productor,2023-11-17
+377,Cliente 377,Productor,Sgo.,Bandera,Mediano productor,s/d
+378,Cliente 378,Contratista,Chcao,Charata,Mediano productor,2023.05.10
+379,Cliente 379,Contratista,Santa fé,Rosario,Pequeño productor,2023-06-06
+380,Cliente 380,Productor,Córdoba,Río Cuarto,Mediano productor,2023-07-01
+381,Cliente 381,Productor,Santiago del Estero,Bandera,Gran productor,2023-08-11
+382,Cliente 382,Productor,SANTIAGO,Bandera,Gran productor,2023-11-18
+383,Cliente 383,Productor,Sgo.,Quimilí,Pequeño productor,2023-07-05
+384,Cliente 384,Contratista,Salta,Metán,Contratista,2023-08-05
+385,Cliente 385,Contratista,CHAco,Resistencia,Contratista,2023.05.10
+386,Cliente 386,Empresa Agro,Santiago del Estero,Bandera,Mediano productor,2023-09-18
+387,Cliente 387,Empresa Agro,Córdoba,Villa María,Gran productor,2023.09.15
+388,Cliente 388,Contratista,Santiago del Estero,Bandera,Mediano productor,s/d
+389,Cliente 389,Productor,Chaco ,Villa Ángela,,2023-04-06
+390,Cliente 390,Empresa Agro,Sta Fe,Rafaela,Gran productor,s/d
+391,Cliente 391,Productor,cordoba,Villa María,Gran productor,2023.03.04
+392,Cliente 392,Empresa Agro,Chaco,Resistencia,Contratista,2023.11.18
+393,Cliente 393,Empresa Agro,Chaco,Resistencia,Mediano productor,s/d
+394,Cliente 394,Contratista,Sal Ta,Metán,Contratista,2023-07-30
+395,Cliente 395,Contratista,Santa Fe,Rafaela,Pequeño productor,2023-04-28
+396,Cliente 396,Empresa Agro,Sgo.,Quimilí,Pequeño productor,s/d
+397,Cliente 397,Productor,Chaco,Villa Ángela,Pequeño productor,2023-03-09
+398,Cliente 398,Contratista,Santiago del Estero,Bandera,Mediano productor,2023-12-11
+399,Cliente 399,Productor,Chaco,Villa Ángela,Gran productor,2023-03-23
+400,Cliente 400,Empresa Agro,Santa fé,Rafaela,Contratista,2023-10-19
+401,Cliente 401,Productor,Chaco,Resistencia,Contratista,2024-05-03
+402,Cliente 402,Empresa Agro,Santa Fe,Rafaela,Gran productor,2024-02-18
+403,Cliente 403,Productor,SANTIAGO,Bandera,Pequeño productor,2024-02-03
+404,Cliente 404,Contratista,salta,Güemes,Gran productor,2024.03.10
+405,Cliente 405,Empresa Agro,santa fe,Rafaela,Pequeño productor,2024-03-26
+406,Cliente 406,Contratista,Cordoba,Río Cuarto,Mediano productor,2024-03-10
+407,Cliente 407,Empresa Agro,Salta,Güemes,Pequeño productor,2024-04-29
+408,Cliente 408,Empresa Agro,Salta,Metán,Contratista,2024-06-25
+409,Cliente 409,Productor,chaco,Villa Ángela,Pequeño productor,2024-05-14
+410,Cliente 410,Contratista,Santiago del Estero,Quimilí,Mediano productor,2024-05-26
+411,Cliente 411,Empresa Agro,Santa Fe,Rafaela,Mediano productor,2024-02-20
+412,Cliente 412,Contratista,Santa fé,Rosario,Gran productor,2024-05-06
+413,Cliente 413,Contratista,Santiago del Estero,Quimilí,Contratista,2024-02-20
+414,Cliente 414,Contratista,Salta,Güemes,Pequeño productor,2024-10-01
+415,Cliente 415,Empresa Agro,CBA,Villa María,Contratista,2024-11-09
+416,Cliente 416,Productor,sgo del estero,Bandera,Mediano productor,2024.11.03
+417,Cliente 417,Empresa Agro,Chaco,Charata,Gran productor,2024-08-16
+418,Cliente 418,Empresa Agro,Salta,Metán,Gran productor,2024-07-22
+419,Cliente 419,Productor,Chaco,Charata,Contratista,2024-02-01
+420,Cliente 420,Productor,Córdoba,Villa María,Mediano productor,2024-05-29
+421,Cliente 421,Empresa Agro,Santa fé,Rafaela,Contratista,2024-09-24
+422,Cliente 422,Empresa Agro,Salta,Metán,Pequeño productor,2024-02-01
+423,Cliente 423,Productor,Santa Fe,Rosario,Mediano productor,2024-08-29
+424,Cliente 424,Contratista,Córdoba,Río Cuarto,Gran productor,2024-05-06
+425,Cliente 425,Contratista,Chcao,Charata,Mediano productor,2024-03-20
+426,Cliente 426,Contratista,Salta,Güemes,Pequeño productor,2024-01-30
+427,Cliente 427,Empresa Agro,Córdoba,Río Cuarto,Gran productor,2024-07-30
+428,Cliente 428,Contratista,salta,Metán,Gran productor,2024-12-11
+429,Cliente 429,Empresa Agro,Chaco,Charata,Pequeño productor,2024-03-29
+430,Cliente 430,Contratista,Sal Ta,Güemes,Contratista,s/d
+431,Cliente 431,Productor,Córdoba,Villa María,Mediano productor,2024-03-26
+432,Cliente 432,Productor,Chaco ,Charata,Mediano productor,s/d
+433,Cliente 433,Productor,Santa Fe,Rosario,Gran productor,2024.10.20
+434,Cliente 434,Contratista,Santiago del Estero,Bandera,Pequeño productor,2024-05-06
+435,Cliente 435,Contratista,Santa Fe,Rosario,Gran productor,2024-07-20
+436,Cliente 436,Contratista,Chcao,Resistencia,Mediano productor,2024-06-15
+437,Cliente 437,Productor,Cordoba,Villa María,Contratista,2024-03-12
+438,Cliente 438,Empresa Agro,Santiago del Estero,Quimilí,Contratista,2024-01-01
+439,Cliente 439,Contratista,Santa Fe,Rafaela,Mediano productor,2024-08-15
+440,Cliente 440,Contratista,salta,Güemes,Mediano productor,2024-07-09
+441,Cliente 441,Empresa Agro,Salta,Metán,Mediano productor,2024-09-21
+442,Cliente 442,Productor,Córdoba,Villa María,Mediano productor,s/d
+443,Cliente 443,Productor,salta,Güemes,Gran productor,s/d
+444,Cliente 444,Productor,Santiago del Estero,Quimilí,Mediano productor,2024-05-31
+445,Cliente 445,Contratista,Santa Fe,Rosario,Mediano productor,s/d
+446,Cliente 446,Productor,chaco,Villa Ángela,Pequeño productor,2024.01.09
+447,Cliente 447,Contratista,Santa Fe,Rafaela,Mediano productor,2024-09-08
+448,Cliente 448,Productor,Salta,Metán,Mediano productor,2024-06-18
+449,Cliente 449,Productor,Santa Fe,Rosario,Gran productor,s/d
+450,Cliente 450,Contratista,salta,Güemes,Gran productor,2024-09-11
+451,Cliente 451,Productor,Chaco ,Villa Ángela,,2024.12.23
+452,Cliente 452,Empresa Agro,Córdoba,Villa María,Contratista,s/d
+453,Cliente 453,Empresa Agro,Santa Fe,Rafaela,Gran productor,2024-10-04
+454,Cliente 454,Productor,Chaco,Charata,Gran productor,2024-06-17
+455,Cliente 455,Contratista,Santiago del Estero,Bandera,Contratista,2024-06-08
+456,Cliente 456,Productor,salta,Metán,Pequeño productor,2024.08.07
+457,Cliente 457,Empresa Agro,Santiago del Estero,Quimilí,,s/d
+458,Cliente 458,Empresa Agro,CBA,Río Cuarto,,2024-05-22
+459,Cliente 459,Empresa Agro,Salta,Metán,Gran productor,2024-04-18
+460,Cliente 460,Empresa Agro,CHAco,Charata,Pequeño productor,2024-06-17
+461,Cliente 461,Empresa Agro,Salta,Metán,Gran productor,2024-10-15
+462,Cliente 462,Empresa Agro,Santa Fe,Rosario,Gran productor,2024-04-14
+463,Cliente 463,Contratista,Cordoba,Río Cuarto,Gran productor,2024-09-06
+464,Cliente 464,Empresa Agro,Sal Ta,Metán,Gran productor,2024-10-07
+465,Cliente 465,Contratista,Cordoba,Río Cuarto,Gran productor,2024-10-01
+466,Cliente 466,Productor,Chaco ,Charata,Mediano productor,2024-07-12
+467,Cliente 467,Productor,Córdoba,Río Cuarto,Mediano productor,2024-07-05
+468,Cliente 468,Contratista,Cordoba,Río Cuarto,Mediano productor,2024-08-07
+469,Cliente 469,Contratista,Salta,Güemes,Contratista,2024-05-26
+470,Cliente 470,Empresa Agro,Córdoba,Río Cuarto,Pequeño productor,2024-07-01
+471,Cliente 471,Empresa Agro,Santa Fe,Rosario,Contratista,2024-03-08
+472,Cliente 472,Contratista,CHAco,Villa Ángela,Mediano productor,2024-01-31
+473,Cliente 473,Productor,Santa Fe,Rafaela,,2024-09-17
+474,Cliente 474,Productor,Chaco,Villa Ángela,contratista,2024-10-17
+475,Cliente 475,Empresa Agro,Chaco,Resistencia,Mediano productor,s/d
+476,Cliente 476,Contratista,Chaco,Villa Ángela,Pequeño productor,2024-06-05
+477,Cliente 477,Empresa Agro,Córdoba,Villa María,Gran productor,2024-08-13
+478,Cliente 478,Empresa Agro,Santa Fe,Rafaela,Mediano productor,2024-03-12
+479,Cliente 479,Productor,CHAco,Resistencia,Gran productor,2024-12-19
+480,Cliente 480,Contratista,Santa Fe,Rafaela,Mediano productor,2024-05-13
+481,Cliente 481,Contratista,Santiago del Estero,Quimilí,Contratista,2024-03-18
+482,Cliente 482,Contratista,Santa fé,Rosario,Gran productor,2024.08.16
+483,Cliente 483,Contratista,Santiago del Estero,Bandera,Mediano productor,2024-06-28
+484,Cliente 484,Empresa Agro,Santa Fe,Rosario,Contratista,2024-10-11
+485,Cliente 485,Productor,Córdoba,Río Cuarto,Gran productor,2024-01-12
+486,Cliente 486,Productor,Chaco,Charata,Mediano productor,2024.07.25
+487,Cliente 487,Empresa Agro,Córdoba,Río Cuarto,Pequeño productor,2024-10-02
+488,Cliente 488,Productor,santa fe,Rafaela,Mediano productor,2024-12-24
+489,Cliente 489,Productor,chaco,Villa Ángela,Contratista,2024-05-25
+490,Cliente 490,Productor,Santa Fe,Rosario,Gran productor,2024-01-21
+491,Cliente 491,Productor,Salta,Metán,Pequeño productor,2024-01-03
+492,Cliente 492,Empresa Agro,Córdoba,Villa María,,s/d
+493,Cliente 493,Contratista,Santiago del Estero,Quimilí,Mediano productor,2024-12-26
+494,Cliente 494,Contratista,CHAco,Resistencia,Contratista,s/d
+495,Cliente 495,Contratista,Salta,Güemes,Pequeño productor,2024-11-26
+496,Cliente 496,Empresa Agro,Chcao,Villa Ángela,Pequeño productor,2024.09.26
+497,Cliente 497,Empresa Agro,Córdoba,Villa María,Pequeño productor,s/d
+498,Cliente 498,Empresa Agro,SANTIAGO,Bandera,Pequeño productor,2024-02-01
+499,Cliente 499,Productor,Sta Fe,Rafaela,Pequeño productor,2024-09-02
+500,Cliente 500,Productor,Cordoba,Río Cuarto,Gran productor,s/d
+501,Cliente 501,Productor,Córdoba,Río Cuarto,Mediano productor,2024-09-20
+502,Cliente 502,Empresa Agro,Santa Fe,Rafaela,Gran productor,2024-01-06
+503,Cliente 503,Empresa Agro,Cordoba,Río Cuarto,Gran productor,2024-07-27
+504,Cliente 504,Productor,Santiago del Estero,Quimilí,Mediano productor,2024-12-23
+505,Cliente 505,Empresa Agro,Chaco,Charata,Mediano productor,2024-11-01
+506,Cliente 506,Productor,Salta,Güemes,Mediano productor,2024-08-22
+507,Cliente 507,Contratista,Santa fé,Rosario,Pequeño productor,2024-07-26
+508,Cliente 508,Productor,salta,Metán,Contratista,2024-02-28
+509,Cliente 509,Empresa Agro,Santa Fe,Rafaela,Contratista,2024-11-19
+510,Cliente 510,Contratista,Sal Ta,Güemes,Mediano productor,2024-10-12
+511,Cliente 511,Contratista,SANTIAGO,Quimilí,Mediano productor,2024-09-16
+512,Cliente 512,Contratista,Santa Fe,Rafaela,Mediano productor,s/d
+513,Cliente 513,Empresa Agro,Córdoba,Villa María,Pequeño productor,2024-02-27
+514,Cliente 514,Productor,SANTIAGO,Bandera,Pequeño productor,2024-06-01
+515,Cliente 515,Empresa Agro,Salta,Güemes,Pequeño productor,2024-01-02
+516,Cliente 516,Contratista,Chaco,Resistencia,Gran productor,2024-03-21
+517,Cliente 517,Empresa Agro,Cordoba,Villa María,Contratista,2024-03-25
+518,Cliente 518,Empresa Agro,Santa Fe,Rosario,Contratista,2024-08-05
+519,Cliente 519,Productor,Córdoba,Río Cuarto,Pequeño productor,s/d
+520,Cliente 520,Contratista,Santa Fe,Rafaela,Pequeño productor,2024-06-05
+521,Cliente 521,Contratista,SANTIAGO,Bandera,Pequeño productor,2024-03-04
+522,Cliente 522,Contratista,Santiago del Estero,Bandera,,2024.08.04
+523,Cliente 523,Empresa Agro,Córdoba,Villa María,Pequeño productor,2024-10-25
+524,Cliente 524,Productor,Salta,Metán,Contratista,2024-05-25
+525,Cliente 525,Empresa Agro,Salta,Güemes,Gran productor,2024-04-01
+526,Cliente 526,Productor,Santa Fe,Rafaela,,2024-11-05
+527,Cliente 527,Contratista,Santiago del Estero,Bandera,Pequeño productor,s/d
+528,Cliente 528,Empresa Agro,cordoba,Villa María,Contratista,2024-09-22
+529,Cliente 529,Empresa Agro,Salta,Metán,Pequeño productor,2024-06-17
+530,Cliente 530,Contratista,Cordoba,Río Cuarto,Gran productor,2024-07-15
+531,Cliente 531,Contratista,Salta,Güemes,Pequeño productor,2024-10-21
+532,Cliente 532,Empresa Agro,Salta,Güemes,Pequeño productor,2024-05-18
+533,Cliente 533,Empresa Agro,salta,Güemes,Prod.,2024-02-06
+534,Cliente 534,Empresa Agro,Santiago del Estero,Quimilí,,2024-09-29
+535,Cliente 535,Productor,Chaco,Villa Ángela,Contratista,2024-07-20
+536,Cliente 536,Empresa Agro,Córdoba,Villa María,Gran productor,2024-06-26
+537,Cliente 537,Productor,Chaco ,Villa Ángela,,2024-07-21
+538,Cliente 538,Empresa Agro,Salta,Metán,Contratista,2024-04-21
+539,Cliente 539,Empresa Agro,Sta Fe,Rafaela,Gran productor,2024.11.13
+540,Cliente 540,Empresa Agro,Santa Fe,Rafaela,Gran productor,s/d
+541,Cliente 541,Productor,Chaco,Charata,Gran productor,2024-01-12
+542,Cliente 542,Empresa Agro,Córdoba,Villa María,Gran productor,2024-09-14
+543,Cliente 543,Empresa Agro,Sta Fe,Rosario,contratista,2024-02-23
+544,Cliente 544,Productor,Salta,Güemes,Gran productor,2024-02-23
+545,Cliente 545,Productor,Santa Fe,Rafaela,Pequeño productor,2024-11-17
+546,Cliente 546,Contratista,cordoba,Río Cuarto,,2024-06-11
+547,Cliente 547,Productor,Santiago del Estero,Bandera,Contratista,s/d
+548,Cliente 548,Productor,Salta,Metán,Mediano productor,2024-04-29
+549,Cliente 549,Productor,Salta,Güemes,Mediano productor,s/d
+550,Cliente 550,Empresa Agro,Córdoba,Río Cuarto,,2024-09-10
+551,Cliente 551,Empresa Agro,Santa Fe,Rosario,Gran productor,2024-04-24
+552,Cliente 552,Empresa Agro,Santa Fe,Rosario,Gran productor,2024-09-22
+553,Cliente 553,Productor,Chaco,Villa Ángela,Mediano productor,2024-04-15
+554,Cliente 554,Empresa Agro,Córdoba,Villa María,Contratista,s/d
+555,Cliente 555,Productor,CHAco,Resistencia,Mediano productor,2024-08-20
+556,Cliente 556,Productor,Santa Fe,Rosario,Contratista,2024.08.06
+557,Cliente 557,Empresa Agro,Córdoba,Villa María,Pequeño productor,s/d
+558,Cliente 558,Productor,Santa Fe,Rafaela,Contratista,s/d
+559,Cliente 559,Empresa Agro,Chaco,Charata,Gran productor,2024.02.17
+560,Cliente 560,Productor,Chaco ,Charata,Mediano productor,2024-06-08
+561,Cliente 561,Productor,Santiago del Estero,Quimilí,Contratista,2024-04-28
+562,Cliente 562,Empresa Agro,Sal Ta,Güemes,Prod.,s/d
+563,Cliente 563,Contratista,Córdoba,Río Cuarto,Gran productor,2024.04.12
+564,Cliente 564,Contratista,Chaco,Resistencia,Gran productor,2024-04-14
+565,Cliente 565,Productor,Salta,Güemes,Mediano productor,2024.12.09
+566,Cliente 566,Productor,CBA,Villa María,Pequeño productor,2024-07-10
+567,Cliente 567,Empresa Agro,Chaco,Resistencia,Contratista,2024.02.19
+568,Cliente 568,Contratista,Sal Ta,Güemes,Gran productor,2024-06-08
+569,Cliente 569,Contratista,Córdoba,Río Cuarto,Gran productor,2024-12-22
+570,Cliente 570,Productor,Chaco,Charata,Gran productor,2024-01-28
+571,Cliente 571,Productor,Santiago del Estero,Bandera,Gran productor,s/d
+572,Cliente 572,Empresa Agro,Santa Fe,Rafaela,Pequeño productor,2024-07-08
+573,Cliente 573,Contratista,Córdoba,Villa María,Gran productor,2024-02-27
+574,Cliente 574,Contratista,Córdoba,Río Cuarto,,2024-02-21
+575,Cliente 575,Empresa Agro,Salta,Metán,Pequeño productor,2024-05-20
+576,Cliente 576,Productor,Santa fé,Rafaela,Contratista,2024-04-09
+577,Cliente 577,Contratista,Santiago del Estero,Bandera,Mediano productor,2024-08-30
+578,Cliente 578,Contratista,Santa Fe,Rafaela,Pequeño productor,2024-10-12
+579,Cliente 579,Productor,cordoba,Río Cuarto,,s/d
+580,Cliente 580,Contratista,Córdoba,Río Cuarto,Contratista,2024-01-13
+581,Cliente 581,Productor,Salta,Metán,Mediano productor,2024-10-16
+582,Cliente 582,Productor,Santiago del Estero,Quimilí,Pequeño productor,2024-09-28
+583,Cliente 583,Empresa Agro,Córdoba,Río Cuarto,,2024-11-16
+584,Cliente 584,Empresa Agro,CHAco,Charata,Pequeño productor,2024-06-06
+585,Cliente 585,Contratista,Santiago del Estero,Bandera,Pequeño productor,2024-02-21
+586,Cliente 586,Productor,Salta,Metán,Mediano productor,2024-11-14
+587,Cliente 587,Empresa Agro,salta,Güemes,Prod.,2024-04-16
+588,Cliente 588,Empresa Agro,Chaco ,Resistencia,Pequeño productor,s/d
+589,Cliente 589,Empresa Agro,Salta,Güemes,Gran productor,2024-12-13
+590,Cliente 590,Contratista,Santa Fe,Rafaela,Mediano productor,2024-10-25
+591,Cliente 591,Empresa Agro,Córdoba,Villa María,Pequeño productor,2024-10-25
+592,Cliente 592,Contratista,Sal Ta,Metán,Contratista,2024-03-10
+593,Cliente 593,Empresa Agro,Salta,Metán,Contratista,2024-12-06
+594,Cliente 594,Empresa Agro,Santa Fe,Rafaela,Pequeño productor,2024.11.06
+595,Cliente 595,Contratista,Córdoba,Río Cuarto,Gran productor,2024-08-26
+596,Cliente 596,Contratista,Córdoba,Villa María,Mediano productor,2024-05-10
+597,Cliente 597,Contratista,Córdoba,Villa María,Mediano productor,2024-08-03
+598,Cliente 598,Productor,Chaco,Villa Ángela,Contratista,2024-08-24
+599,Cliente 599,Productor,Santiago del Estero,Quimilí,Contratista,2024-02-19
+600,Cliente 600,Contratista,Córdoba,Río Cuarto,Pequeño productor,2024-12-29
+601,Cliente 601,Contratista,Santa fé,Rosario,Pequeño productor,2024-11-23
+602,Cliente 602,Productor,salta,Metán,Pequeño productor,s/d
+603,Cliente 603,Empresa Agro,Córdoba,Río Cuarto,Pequeño productor,2024.03.27
+604,Cliente 604,Contratista,salta,Metán,Mediano productor,2024-01-09
+605,Cliente 605,Empresa Agro,CHAco,Charata,Pequeño productor,2024.06.20
+606,Cliente 606,Contratista,Cordoba,Río Cuarto,Contratista,2024-09-11
+607,Cliente 607,Empresa Agro,Santa Fe,Rosario,Pequeño productor,2024-09-21
+608,Cliente 608,Contratista,Santiago del Estero,Bandera,Pequeño productor,2024.03.29
+609,Cliente 609,Empresa Agro,Santa Fe,Rosario,Prod.,2024-12-21
+610,Cliente 610,Empresa Agro,Sgo.,Quimilí,Pequeño productor,2024-01-29
+611,Cliente 611,Contratista,Salta,Güemes,Gran productor,2024-10-14
+612,Cliente 612,Productor,sgo del estero,Bandera,Mediano productor,2024-12-21
+613,Cliente 613,Contratista,CBA,Río Cuarto,Gran productor,2024-12-16
+614,Cliente 614,Productor,CHAco,Resistencia,Mediano productor,2024-02-22
+615,Cliente 615,Empresa Agro,Salta,Güemes,Pequeño productor,2024-04-22
+616,Cliente 616,Empresa Agro,Santiago del Estero,Quimilí,Pequeño productor,2024-05-22
+617,Cliente 617,Productor,Córdoba,Río Cuarto,Gran productor,2024-07-31
+618,Cliente 618,Productor,Chaco,Villa Ángela,Contratista,2024-08-18
+619,Cliente 619,Productor,Córdoba,Río Cuarto,Pequeño productor,s/d
+620,Cliente 620,Productor,santa fe,Rafaela,Pequeño productor,2024-10-23
+621,Cliente 621,Empresa Agro,Córdoba,Villa María,Contratista,2024-08-29
+622,Cliente 622,Productor,Santiago del Estero,Quimilí,Pequeño productor,2024-04-18
+623,Cliente 623,Productor,Santiago del Estero,Quimilí,Mediano productor,2024-10-31
+624,Cliente 624,Empresa Agro,Salta,Metán,Gran productor,2024-07-22
+625,Cliente 625,Contratista,Córdoba,Villa María,Gran productor,2024-02-05
+626,Cliente 626,Empresa Agro,Santa Fe,Rosario,Contratista,2024-11-10
+627,Cliente 627,Empresa Agro,Chcao,Resistencia,Contratista,s/d
+628,Cliente 628,Productor,Sta Fe,Rafaela,Pequeño productor,2024-02-10
+629,Cliente 629,Contratista,Salta,Güemes,Contratista,2024.01.15
+630,Cliente 630,Productor,salta,Metán,Pequeño productor,2024-05-10
+631,Cliente 631,Productor,Córdoba,Río Cuarto,Gran productor,2024-01-31
+632,Cliente 632,Productor,Santa Fe,Rosario,Pequeño productor,2024-06-26
+633,Cliente 633,Productor,Córdoba,Villa María,Mediano productor,2024-03-09
+634,Cliente 634,Contratista,Salta,Güemes,Contratista,2024-05-12
+635,Cliente 635,Productor,Salta,Güemes,,s/d
+636,Cliente 636,Empresa Agro,Chaco,Resistencia,Contratista,2024-12-26
+637,Cliente 637,Empresa Agro,Santa Fe,Rosario,Contratista,2024.07.29
+638,Cliente 638,Contratista,Santa Fe,Rafaela,,2024-09-29
+639,Cliente 639,Productor,Salta,Metán,Pequeño productor,2024.10.29
+640,Cliente 640,Contratista,sgo del estero,Quimilí,Contratista,2024-12-10
+641,Cliente 641,Contratista,Santa Fe,Rosario,Mediano productor,2024-08-03
+642,Cliente 642,Empresa Agro,Sal Ta,Metán,Gran productor,s/d
+643,Cliente 643,Contratista,Santa Fe,Rosario,Pequeño productor,2024-01-15
+644,Cliente 644,Empresa Agro,Santa Fe,Rafaela,Pequeño productor,2024-01-10
+645,Cliente 645,Contratista,Chaco,Villa Ángela,Gran productor,2024-06-24
+646,Cliente 646,Productor,Santiago del Estero,Bandera,Gran productor,2024-04-17
+647,Cliente 647,Contratista,santa fe,Rosario,Contratista,2024-04-05
+648,Cliente 648,Contratista,Santa Fe,Rosario,Mediano productor,2024.03.02
+649,Cliente 649,Empresa Agro,Chaco,Charata,Pequeño productor,2024-02-22
+650,Cliente 650,Empresa Agro,Salta,Güemes,Pequeño productor,2024-10-15
+651,Cliente 651,Empresa Agro,Chaco,Charata,Pequeño productor,2024-01-14
+652,Cliente 652,Productor,Córdoba,Villa María,Mediano productor,2024-02-07
+653,Cliente 653,Productor,Córdoba,Río Cuarto,Gran productor,2024-07-19
+654,Cliente 654,Productor,Sgo.,Bandera,contratista,2024-02-18
+655,Cliente 655,Empresa Agro,Salta,Güemes,Gran productor,2024-04-18
+656,Cliente 656,Empresa Agro,SANTIAGO,Bandera,Contratista,2024-06-26
+657,Cliente 657,Empresa Agro,salta,Metán,Gran productor,2024-03-27
+658,Cliente 658,Contratista,salta,Metán,Gran productor,2024-01-28
+659,Cliente 659,Productor,Chaco,Charata,Pequeño productor,2024-10-16
+660,Cliente 660,Contratista,Chaco,Charata,Gran productor,2024-09-19
+661,Cliente 661,Productor,Córdoba,Villa María,Gran productor,2024-03-22
+662,Cliente 662,Contratista,Córdoba,Villa María,Mediano productor,2024-11-20
+663,Cliente 663,Contratista,Chaco,Charata,Contratista,2024-11-17
+664,Cliente 664,Empresa Agro,Chaco,Charata,Gran productor,2024-01-14
+665,Cliente 665,Contratista,Cordoba,Río Cuarto,Contratista,2024-01-09
+666,Cliente 666,Productor,cordoba,Río Cuarto,Gran productor,2024-05-02
+667,Cliente 667,Empresa Agro,Córdoba,Villa María,,s/d
+668,Cliente 668,Productor,Córdoba,Río Cuarto,,2024-05-13
+669,Cliente 669,Productor,Salta,Metán,Contratista,2024-01-30
+670,Cliente 670,Contratista,Cordoba,Río Cuarto,Gran productor,2024-04-08
+671,Cliente 671,Productor,Salta,Güemes,Mediano productor,2024-01-19
+672,Cliente 672,Contratista,Salta,Metán,Pequeño productor,2024-11-12
+673,Cliente 673,Empresa Agro,SANTIAGO,Bandera,Pequeño productor,2024.02.10
+674,Cliente 674,Productor,santa fe,Rafaela,Mediano productor,2024-10-13
+675,Cliente 675,Contratista,salta,Güemes,Gran productor,s/d
+676,Cliente 676,Contratista,Cordoba,Río Cuarto,Pequeño productor,2024-07-19
+677,Cliente 677,Contratista,Chaco,Resistencia,Gran productor,2024-01-14
+678,Cliente 678,Productor,Santa Fe,Rosario,Mediano productor,2024-08-30
+679,Cliente 679,Empresa Agro,Salta,Metán,Mediano productor,2024-01-17
+680,Cliente 680,Contratista,Salta,Güemes,Pequeño productor,2024-03-19
+681,Cliente 681,Contratista,Santiago del Estero,Quimilí,Contratista,2024-07-18
+682,Cliente 682,Contratista,Santa Fe,Rosario,Pequeño productor,2024-10-08
+683,Cliente 683,Productor,Chaco,Resistencia,Pequeño productor,s/d
+684,Cliente 684,Productor,CHAco,Resistencia,Gran productor,s/d
+685,Cliente 685,Empresa Agro,Santiago del Estero,Bandera,Gran productor,2024-07-09
+686,Cliente 686,Empresa Agro,Salta,Metán,Mediano productor,2024-12-29
+687,Cliente 687,Empresa Agro,cordoba,Villa María,Contratista,s/d
+688,Cliente 688,Empresa Agro,Córdoba,Villa María,Gran productor,2024-08-28
+689,Cliente 689,Productor,Santa Fe,Rosario,Gran productor,2024-06-16
+690,Cliente 690,Empresa Agro,Córdoba,Río Cuarto,Gran productor,2024-04-14
+691,Cliente 691,Empresa Agro,Córdoba,Villa María,Pequeño productor,2024-10-25
+692,Cliente 692,Contratista,Santa fé,Rafaela,Mediano productor,2024.07.26
+693,Cliente 693,Contratista,Córdoba,Río Cuarto,Pequeño productor,2024.10.08
+694,Cliente 694,Contratista,salta,Metán,Mediano productor,2024-03-24
+695,Cliente 695,Contratista,Salta,Metán,Contratista,2024-06-13
+696,Cliente 696,Contratista,Sgo.,Bandera,,2024.05.08
+697,Cliente 697,Contratista,Santiago del Estero,Bandera,Contratista,2024-05-22
+698,Cliente 698,Productor,santa fe,Rafaela,Pequeño productor,2024-04-14
+699,Cliente 699,Contratista,Salta,Metán,Contratista,2024-06-17
+700,Cliente 700,Empresa Agro,Santiago del Estero,Quimilí,Contratista,s/d
+701,Cliente 701,Productor,Chaco,Charata,Mediano productor,2024-02-15
+702,Cliente 702,Productor,Chaco,Villa Ángela,Mediano productor,2024-08-15
+703,Cliente 703,Productor,santa fe,Rafaela,Pequeño productor,2024-02-08
+704,Cliente 704,Productor,sgo del estero,Bandera,Gran productor,2024-09-05
+705,Cliente 705,Productor,Chaco,Villa Ángela,Pequeño productor,2024-08-01
+706,Cliente 706,Contratista,Salta,Güemes,Mediano productor,2024-09-11
+707,Cliente 707,Productor,Sta Fe,Rafaela,Pequeño productor,2024-03-29
+708,Cliente 708,Contratista,Santa Fe,Rafaela,Pequeño productor,2024-06-26
+709,Cliente 709,Contratista,Santiago del Estero,Bandera,Gran productor,2024-11-04
+710,Cliente 710,Productor,Córdoba,Río Cuarto,Gran productor,2024-11-30
+711,Cliente 711,Empresa Agro,sgo del estero,Bandera,Contratista,2024-11-21
+712,Cliente 712,Productor,Sgo.,Bandera,Mediano productor,2024-08-14
+713,Cliente 713,Productor,sgo del estero,Quimilí,Contratista,2024-05-10
+714,Cliente 714,Productor,santa fe,Rafaela,Pequeño productor,2024-08-06
+715,Cliente 715,Empresa Agro,Sal Ta,Metán,Pequeño productor,2024-04-15
+716,Cliente 716,Contratista,Salta,Güemes,Contratista,2024-03-16
+717,Cliente 717,Productor,salta,Metán,Contratista,2024.05.26
+718,Cliente 718,Empresa Agro,Santa Fe,Rosario,Pequeño productor,2024-07-19
+719,Cliente 719,Contratista,Cordoba,Río Cuarto,Pequeño productor,2024-09-21
+720,Cliente 720,Contratista,Santiago del Estero,Bandera,Mediano productor,s/d
+721,Cliente 721,Productor,Chaco,Villa Ángela,Gran productor,2024-12-25
+722,Cliente 722,Contratista,Salta,Metán,Mediano productor,2024-08-27
+723,Cliente 723,Productor,Salta,Güemes,Gran productor,2024-08-09
+724,Cliente 724,Productor,Córdoba,Villa María,Mediano productor,2024.04.26
+725,Cliente 725,Empresa Agro,Santa fé,Rosario,Mediano productor,2024-12-17
+726,Cliente 726,Contratista,CBA,Villa María,Gran productor,s/d
+727,Cliente 727,Productor,sgo del estero,Bandera,Gran productor,2024-12-06
+728,Cliente 728,Contratista,Santiago del Estero,Quimilí,Mediano productor,2024-03-20
+729,Cliente 729,Empresa Agro,Sal Ta,Güemes,Gran productor,2024-08-16
+730,Cliente 730,Productor,Santiago del Estero,Bandera,Gran productor,2024-08-24
+731,Cliente 731,Empresa Agro,Santa Fe,Rosario,Gran productor,s/d
+732,Cliente 732,Empresa Agro,Córdoba,Río Cuarto,,s/d
+733,Cliente 733,Productor,salta,Güemes,Contratista,2024.05.20
+734,Cliente 734,Contratista,Salta,Metán,Pequeño productor,2024-10-15
+735,Cliente 735,Empresa Agro,Santa Fe,Rafaela,Contratista,2024.05.01
+736,Cliente 736,Empresa Agro,Córdoba,Villa María,Gran productor,2024-04-09
+737,Cliente 737,Productor,Córdoba,Villa María,Mediano productor,2024-10-27
+738,Cliente 738,Productor,Chaco,Charata,Mediano productor,2024-12-09
+739,Cliente 739,Contratista,Salta,Güemes,Pequeño productor,2024-03-16
+740,Cliente 740,Empresa Agro,sgo del estero,Bandera,Contratista,s/d
+741,Cliente 741,Empresa Agro,Chaco,Charata,Pequeño productor,2024-05-31
+742,Cliente 742,Empresa Agro,Santa Fe,Rafaela,Contratista,2024.05.14
+743,Cliente 743,Empresa Agro,Chaco,Resistencia,Mediano productor,2024-12-22
+744,Cliente 744,Contratista,Córdoba,Río Cuarto,,2024-03-07
+745,Cliente 745,Contratista,salta,Metán,Gran productor,2024-08-23
+746,Cliente 746,Productor,Santiago del Estero,Bandera,Gran productor,2024-12-19
+747,Cliente 747,Productor,chaco,Villa Ángela,,2024-04-10
+748,Cliente 748,Productor,CHAco,Resistencia,Mediano productor,2024-04-17
+749,Cliente 749,Contratista,Santiago del Estero,Bandera,Gran productor,2024-08-23
+750,Cliente 750,Contratista,sgo del estero,Bandera,Pequeño productor,2024-02-20
+751,Cliente 751,Empresa Agro,Chaco,Charata,Mediano productor,2024-01-04
+752,Cliente 752,Contratista,Córdoba,Río Cuarto,Gran productor,2024-11-25
+753,Cliente 753,Productor,Salta,Güemes,Gran productor,2024.02.10
+754,Cliente 754,Contratista,Salta,Güemes,Contratista,2024-06-28
+755,Cliente 755,Empresa Agro,Santiago del Estero,Bandera,contratista,2024-08-31
+756,Cliente 756,Productor,Chaco,Resistencia,Contratista,2024-05-19
+757,Cliente 757,Empresa Agro,cordoba,Villa María,Contratista,2024-12-04
+758,Cliente 758,Contratista,Santa Fe,Rafaela,Pequeño productor,2024-08-09
+759,Cliente 759,Productor,Salta,Güemes,Mediano productor,2024-10-26
+760,Cliente 760,Productor,sgo del estero,Bandera,Gran productor,2024-03-25
+761,Cliente 761,Empresa Agro,Córdoba,Villa María,,2024-05-22
+762,Cliente 762,Productor,SANTIAGO,Bandera,Pequeño productor,2024-05-29
+763,Cliente 763,Productor,Santiago del Estero,Bandera,Gran productor,s/d
+764,Cliente 764,Productor,Córdoba,Villa María,Mediano productor,s/d
+765,Cliente 765,Contratista,Sta Fe,Rosario,Contratista,2024-04-30
+766,Cliente 766,Contratista,Santa Fe,Rafaela,Mediano productor,2024-01-20
+767,Cliente 767,Contratista,Salta,Metán,Pequeño productor,2024-12-15
+768,Cliente 768,Empresa Agro,sgo del estero,Bandera,Gran productor,2024-08-08
+769,Cliente 769,Empresa Agro,Santa fé,Rosario,Mediano productor,s/d
+770,Cliente 770,Contratista,Sta Fe,Rafaela,Pequeño productor,2024-06-17
+771,Cliente 771,Empresa Agro,Sgo.,Quimilí,Pequeño productor,2024-05-28
+772,Cliente 772,Empresa Agro,Córdoba,Río Cuarto,Pequeño productor,2024-03-25
+773,Cliente 773,Productor,Chaco,Charata,Mediano productor,2024-02-25
+774,Cliente 774,Productor,Chaco,Villa Ángela,Contratista,2024-06-01
+775,Cliente 775,Empresa Agro,Sgo.,Quimilí,Pequeño productor,2024-11-23
+776,Cliente 776,Empresa Agro,CHAco,Charata,Pequeño productor,2024-07-25
+777,Cliente 777,Empresa Agro,Córdoba,Villa María,Pequeño productor,2024-11-27
+778,Cliente 778,Contratista,Salta,Güemes,Pequeño productor,2024-06-19
+779,Cliente 779,Contratista,salta,Metán,Mediano productor,2024-08-13
+780,Cliente 780,Contratista,Córdoba,Río Cuarto,Gran productor,2024-07-14
+781,Cliente 781,Productor,Santa Fe,Rosario,Pequeño productor,2024-10-11
+782,Cliente 782,Contratista,Salta,Güemes,Contratista,2024-08-12
+783,Cliente 783,Contratista,Santa Fe,Rosario,Mediano productor,2024-10-21
+784,Cliente 784,Productor,Sal Ta,Güemes,Mediano productor,2024-03-27
+785,Cliente 785,Contratista,Santa Fe,Rafaela,Mediano productor,2024-07-01
+786,Cliente 786,Empresa Agro,Chaco,Resistencia,Contratista,2024-05-26
+787,Cliente 787,Productor,Santiago del Estero,Bandera,Mediano productor,2024-07-02
+788,Cliente 788,Contratista,Santa fé,Rosario,Pequeño productor,s/d
+789,Cliente 789,Productor,CBA,Villa María,Pequeño productor,2024-03-25
+790,Cliente 790,Empresa Agro,CBA,Villa María,Contratista,2024-01-20
+791,Cliente 791,Productor,Córdoba,Villa María,Gran productor,2024-12-23
+792,Cliente 792,Productor,Córdoba,Villa María,Gran productor,s/d
+793,Cliente 793,Productor,Sal Ta,Metán,Contratista,s/d
+794,Cliente 794,Empresa Agro,Chaco,Resistencia,Mediano productor,2024.03.02
+795,Cliente 795,Contratista,Santa Fe,Rafaela,Mediano productor,2024-12-03
+796,Cliente 796,Productor,Córdoba,Río Cuarto,,2024-05-14
+797,Cliente 797,Productor,chaco,Villa Ángela,Contratista,2024-11-30
+798,Cliente 798,Contratista,Córdoba,Río Cuarto,Pequeño productor,2024-09-18
+799,Cliente 799,Empresa Agro,Santa Fe,Rosario,Contratista,2024-03-19
+800,Cliente 800,Productor,cordoba,Río Cuarto,Pequeño productor,2024-04-11
+801,Cliente 801,Productor,Salta,Metán,Pequeño productor,2024-07-27
+802,Cliente 802,Empresa Agro,Chaco,Resistencia,Contratista,2024.10.25
+803,Cliente 803,Empresa Agro,Santiago del Estero,Quimilí,,2024-06-20
+804,Cliente 804,Empresa Agro,Santa fé,Rafaela,Contratista,2024-04-05
+805,Cliente 805,Contratista,Santa fé,Rosario,Pequeño productor,2024-12-13
+806,Cliente 806,Productor,Santiago del Estero,Quimilí,Mediano productor,2024.02.27
+807,Cliente 807,Productor,Santiago del Estero,Bandera,Mediano productor,2024-11-23
+808,Cliente 808,Productor,salta,Güemes,Contratista,2024-08-28
+809,Cliente 809,Contratista,Sta Fe,Rosario,Contratista,2024-01-07
+810,Cliente 810,Contratista,chaco,Charata,Gran productor,2024-01-11
+811,Cliente 811,Contratista,Salta,Metán,Pequeño productor,2024-07-06
+812,Cliente 812,Productor,salta,Güemes,Contratista,2024-02-22
+813,Cliente 813,Productor,Salta,Güemes,Mediano productor,2024.04.13
+814,Cliente 814,Contratista,salta,Güemes,Mediano productor,2024-11-05
+815,Cliente 815,Contratista,Santiago del Estero,Bandera,Pequeño productor,s/d
+816,Cliente 816,Productor,Chaco,Resistencia,Gran productor,2024-06-13
+817,Cliente 817,Productor,CBA,Villa María,Pequeño productor,s/d
+818,Cliente 818,Productor,Córdoba,Villa María,Mediano productor,2024.05.20
+819,Cliente 819,Empresa Agro,Chcao,Resistencia,Gran productor,s/d
+820,Cliente 820,Productor,Santiago del Estero,Bandera,Gran productor,2024-09-14
+821,Cliente 821,Contratista,Salta,Güemes,Contratista,2024-04-21
+822,Cliente 822,Contratista,Córdoba,Río Cuarto,Pequeño productor,2024-01-04
+823,Cliente 823,Productor,Córdoba,Río Cuarto,,2024-05-12
+824,Cliente 824,Productor,Chaco,Charata,Gran productor,2024-07-20
+825,Cliente 825,Contratista,Santa Fe,Rafaela,Mediano productor,2024-04-12
+826,Cliente 826,Empresa Agro,Córdoba,Villa María,,2024-02-03
+827,Cliente 827,Empresa Agro,Córdoba,Villa María,Contratista,2024.04.15
+828,Cliente 828,Contratista,Sta Fe,Rosario,Contratista,2024-10-15
+829,Cliente 829,Productor,Córdoba,Río Cuarto,,2024-11-06
+830,Cliente 830,Empresa Agro,Santa Fe,Rafaela,Contratista,2024-12-03
+831,Cliente 831,Contratista,Santa fé,Rafaela,Gran productor,2024-07-22
+832,Cliente 832,Productor,Chaco,Villa Ángela,Pequeño productor,2024-03-30
+833,Cliente 833,Empresa Agro,Chaco,Charata,Pequeño productor,s/d
+834,Cliente 834,Contratista,Córdoba,Villa María,Mediano productor,2024.09.23
+835,Cliente 835,Empresa Agro,Santiago del Estero,Quimilí,Mediano productor,2024-01-08
+836,Cliente 836,Contratista,Chaco,Charata,Pequeño productor,2024-07-21
+837,Cliente 837,Contratista,Santa Fe,Rafaela,Mediano productor,2024-10-16
+838,Cliente 838,Empresa Agro,Santa fé,Rafaela,Mediano productor,2024.07.04
+839,Cliente 839,Contratista,Santa fé,Rosario,Gran productor,2024-11-06
+840,Cliente 840,Productor,Chaco,Charata,Mediano productor,2024.05.23
+841,Cliente 841,Contratista,Santiago del Estero,Quimilí,Gran productor,2024-09-25
+842,Cliente 842,Empresa Agro,Salta,Güemes,Contratista,2024.05.14
+843,Cliente 843,Contratista,CBA,Villa María,Gran productor,2024-06-03
+844,Cliente 844,Contratista,salta,Güemes,Mediano productor,2024-09-19
+845,Cliente 845,Productor,Santiago del Estero,Quimilí,Pequeño productor,2024-10-17
+846,Cliente 846,Empresa Agro,Salta,Güemes,Gran productor,2024-12-15
+847,Cliente 847,Contratista,Santa fé,Rosario,Gran productor,2024-08-01
+848,Cliente 848,Productor,Chaco,Villa Ángela,Pequeño productor,2024-08-18
+849,Cliente 849,Empresa Agro,Santa fé,Rafaela,Contratista,s/d
+850,Cliente 850,Contratista,Santa fé,Rosario,Pequeño productor,2024-01-04
+851,Cliente 851,Productor,santa fe,Rafaela,Pequeño productor,2024-05-26
+852,Cliente 852,Contratista,Santa Fe,Rafaela,Mediano productor,s/d
+853,Cliente 853,Empresa Agro,Santa fé,Rosario,Mediano productor,2024-09-05
+854,Cliente 854,Empresa Agro,Córdoba,Río Cuarto,Gran productor,2024.10.29
+855,Cliente 855,Contratista,Chaco,Resistencia,Gran productor,2024.03.14
+856,Cliente 856,Contratista,Salta,Güemes,Contratista,2024-01-05
+857,Cliente 857,Empresa Agro,Chaco,Charata,Pequeño productor,2024-10-11
+858,Cliente 858,Productor,Córdoba,Río Cuarto,Pequeño productor,2024-10-14
+859,Cliente 859,Productor,Córdoba,Río Cuarto,,2024-07-11
+860,Cliente 860,Productor,Córdoba,Río Cuarto,Pequeño productor,2024-05-12
+861,Cliente 861,Contratista,Santa Fe,Rafaela,Mediano productor,2024-08-20
+862,Cliente 862,Productor,santa fe,Rafaela,Mediano productor,2024-08-23
+863,Cliente 863,Empresa Agro,Santiago del Estero,Quimilí,Pequeño productor,2024-11-27
+864,Cliente 864,Productor,sgo del estero,Bandera,Gran productor,2024-04-06
+865,Cliente 865,Empresa Agro,SANTIAGO,Bandera,Contratista,2024-10-12
+866,Cliente 866,Empresa Agro,Salta,Güemes,Gran productor,2024-07-30
+867,Cliente 867,Productor,Córdoba,Villa María,Mediano productor,s/d
+868,Cliente 868,Productor,Sta Fe,Rafaela,,2024-03-20
+869,Cliente 869,Empresa Agro,Córdoba,Río Cuarto,Gran productor,s/d
+870,Cliente 870,Empresa Agro,Sal Ta,Güemes,Gran productor,2024.06.30
+871,Cliente 871,Contratista,Cordoba,Río Cuarto,Pequeño productor,2024-04-14
+872,Cliente 872,Empresa Agro,Córdoba,Villa María,Pequeño productor,2024-03-11
+873,Cliente 873,Contratista,santa fe,Rafaela,Gran productor,2024-05-28
+874,Cliente 874,Productor,Salta,Metán,Contratista,2024-07-25
+875,Cliente 875,Empresa Agro,Santa Fe,Rafaela,Pequeño productor,2024-04-11
+876,Cliente 876,Empresa Agro,Santa Fe,Rosario,Mediano productor,2024-03-05
+877,Cliente 877,Empresa Agro,Chaco,Resistencia,Pequeño productor,2024-07-31
+878,Cliente 878,Contratista,Salta,Güemes,Contratista,2024.04.08
+879,Cliente 879,Productor,SANTIAGO,Bandera,Gran productor,2024-09-23
+880,Cliente 880,Empresa Agro,Salta,Güemes,Contratista,2024.08.18
+881,Cliente 881,Productor,Salta,Metán,Mediano productor,s/d
+882,Cliente 882,Productor,sgo del estero,Bandera,Mediano productor,2024-03-08
+883,Cliente 883,Productor,Santa fé,Rafaela,Mediano productor,2024-05-12
+884,Cliente 884,Productor,sgo del estero,Quimilí,Contratista,2024.11.06
+885,Cliente 885,Productor,Salta,Güemes,Mediano productor,2024-12-19
+886,Cliente 886,Empresa Agro,Santa fé,Rafaela,Contratista,2024-04-27
+887,Cliente 887,Empresa Agro,Córdoba,Villa María,Contratista,2024-09-22
+888,Cliente 888,Empresa Agro,Santa Fe,Rosario,Contratista,s/d
+889,Cliente 889,Empresa Agro,Santiago del Estero,Bandera,Mediano productor,2024-04-03
+890,Cliente 890,Contratista,Sgo.,Bandera,,2024-05-18
+891,Cliente 891,Empresa Agro,Sgo.,Quimilí,Pequeño productor,2024-08-14
+892,Cliente 892,Contratista,salta,Metán,Mediano productor,2024-03-29
+893,Cliente 893,Empresa Agro,Santiago del Estero,Quimilí,Gran productor,2024-06-26
+894,Cliente 894,Empresa Agro,Chcao,Resistencia,Contratista,2024-02-07
+895,Cliente 895,Empresa Agro,Santa Fe,Rosario,Contratista,2024-06-27
+896,Cliente 896,Productor,Cordoba,Río Cuarto,Gran productor,2024-01-03
+897,Cliente 897,Productor,Santiago del Estero,Bandera,Pequeño productor,2024.05.23
+898,Cliente 898,Empresa Agro,Chcao,Villa Ángela,Pequeño productor,2024-06-26
+899,Cliente 899,Contratista,Santa Fe,Rafaela,Mediano productor,2024-06-28
+900,Cliente 900,Contratista,Santiago del Estero,Bandera,Mediano productor,2024.01.10
+901,Cliente 901,Contratista,Chaco,Resistencia,Gran productor,2024-01-22
+902,Cliente 902,Productor,Salta,Metán,Mediano productor,2024-04-13
+903,Cliente 903,Empresa Agro,salta,Güemes,Prod.,2024-07-23
+904,Cliente 904,Contratista,SANTIAGO,Bandera,Pequeño productor,2024-04-04
+905,Cliente 905,Empresa Agro,Santa Fe,Rafaela,Pequeño productor,2024-01-28
+906,Cliente 906,Empresa Agro,Córdoba,Villa María,Gran productor,2024-05-25
+907,Cliente 907,Contratista,Chaco,Resistencia,Mediano productor,2024-07-27
+908,Cliente 908,Contratista,Cordoba,Río Cuarto,Contratista,2024-08-14
+909,Cliente 909,Productor,SANTIAGO,Bandera,Pequeño productor,2024.05.15
+910,Cliente 910,Contratista,Chaco,Charata,Gran productor,2024-12-21
+911,Cliente 911,Empresa Agro,Chaco,Charata,Gran productor,s/d
+912,Cliente 912,Empresa Agro,Córdoba,Villa María,Gran productor,2024-05-21
+913,Cliente 913,Contratista,Sal Ta,Metán,Contratista,2024-07-29
+914,Cliente 914,Empresa Agro,Sal Ta,Metán,Prod.,s/d
+915,Cliente 915,Contratista,Sal Ta,Güemes,Contratista,2024-04-04
+916,Cliente 916,Empresa Agro,Córdoba,Villa María,Gran productor,2024-12-20
+917,Cliente 917,Contratista,Santa Fe,Rafaela,Mediano productor,2024-03-08
+918,Cliente 918,Empresa Agro,Córdoba,Río Cuarto,,2024-01-30
+919,Cliente 919,Productor,SANTIAGO,Bandera,Pequeño productor,2024-07-28
+920,Cliente 920,Contratista,Santiago del Estero,Quimilí,Mediano productor,2024.10.30
+921,Cliente 921,Productor,Santiago del Estero,Bandera,Gran productor,2024.01.24
+922,Cliente 922,Contratista,chaco,Charata,Gran productor,2024.02.19
+923,Cliente 923,Empresa Agro,Chcao,Charata,Contratista,2024-07-10
+924,Cliente 924,Empresa Agro,Chcao,Charata,Contratista,2024-03-14
+925,Cliente 925,Productor,Chaco,Villa Ángela,Pequeño productor,2024.03.01
+926,Cliente 926,Empresa Agro,salta,Metán,Gran productor,2024.03.02
+927,Cliente 927,Productor,Córdoba,Villa María,Mediano productor,2024-04-12
+928,Cliente 928,Empresa Agro,Córdoba,Río Cuarto,Pequeño productor,2024-09-06
+929,Cliente 929,Contratista,Chaco,Resistencia,Mediano productor,2024-01-20
+930,Cliente 930,Productor,Santiago del Estero,Quimilí,Contratista,2024-10-23
+931,Cliente 931,Empresa Agro,Córdoba,Río Cuarto,Gran productor,2024-10-31
+932,Cliente 932,Productor,Córdoba,Villa María,Mediano productor,2024-12-23
+933,Cliente 933,Empresa Agro,Santa Fe,Rafaela,Pequeño productor,s/d
+934,Cliente 934,Empresa Agro,Salta,Güemes,Pequeño productor,2024-07-07
+935,Cliente 935,Contratista,sgo del estero,Quimilí,Mediano productor,2024-06-12
+936,Cliente 936,Empresa Agro,cordoba,Villa María,Pequeño productor,2024-11-18
+937,Cliente 937,Empresa Agro,Córdoba,Río Cuarto,Pequeño productor,2024.12.04
+938,Cliente 938,Empresa Agro,Córdoba,Villa María,Pequeño productor,2024-03-22
+939,Cliente 939,Contratista,Cordoba,Río Cuarto,Gran productor,2024-10-19
+940,Cliente 940,Productor,Chaco,Charata,Contratista,2024-02-10
+941,Cliente 941,Contratista,Salta,Güemes,Contratista,2024-08-26
+942,Cliente 942,Contratista,Santa Fe,Rosario,Pequeño productor,2024-07-15
+943,Cliente 943,Productor,Córdoba,Río Cuarto,Pequeño productor,2024-06-25
+944,Cliente 944,Empresa Agro,Santa fé,Rafaela,Contratista,2024-09-03
+945,Cliente 945,Empresa Agro,cordoba,Villa María,Contratista,2024-12-06
+946,Cliente 946,Productor,Córdoba,Villa María,Gran productor,2024-03-21
+947,Cliente 947,Empresa Agro,Córdoba,Río Cuarto,Pequeño productor,2024-08-18
+948,Cliente 948,Productor,CHAco,Resistencia,Mediano productor,2024-02-12
+949,Cliente 949,Contratista,Santiago del Estero,Bandera,Pequeño productor,2024.01.10
+950,Cliente 950,Productor,Santiago del Estero,Quimilí,Mediano productor,2024-08-20
+951,Cliente 951,Productor,Santiago del Estero,Bandera,Contratista,2024-04-29
+952,Cliente 952,Empresa Agro,Córdoba,Villa María,Contratista,2024-06-26
+953,Cliente 953,Contratista,santa fe,Rosario,Contratista,2024-07-16
+954,Cliente 954,Productor,Santiago del Estero,Bandera,Gran productor,2024-08-16
+955,Cliente 955,Empresa Agro,sgo del estero,Bandera,Mediano productor,2024.05.10
+956,Cliente 956,Contratista,SANTIAGO,Quimilí,Mediano productor,2024-04-21
+957,Cliente 957,Productor,salta,Güemes,Contratista,2024.06.20
+958,Cliente 958,Productor,CHAco,Charata,Pequeño productor,2024-12-05
+959,Cliente 959,Productor,Córdoba,Villa María,Prod.,s/d
+960,Cliente 960,Empresa Agro,Córdoba,Río Cuarto,Gran productor,s/d
+961,Cliente 961,Contratista,Salta,Güemes,Contratista,2024-03-12
+962,Cliente 962,Empresa Agro,cordoba,Villa María,Contratista,2024.11.07
+963,Cliente 963,Productor,Chaco,Resistencia,Pequeño productor,2024-08-03
+964,Cliente 964,Productor,CHAco,Resistencia,Mediano productor,2024-01-05
+965,Cliente 965,Productor,Córdoba,Villa María,Mediano productor,2024-10-07
+966,Cliente 966,Productor,Sal Ta,Güemes,Contratista,2024.11.12
+967,Cliente 967,Productor,Santiago del Estero,Bandera,Mediano productor,2024-12-19
+968,Cliente 968,Productor,Chaco,Resistencia,Pequeño productor,2024-01-21
+969,Cliente 969,Contratista,Córdoba,Villa María,Mediano productor,2024-08-08
+970,Cliente 970,Empresa Agro,Salta,Metán,Mediano productor,2024-05-13
+971,Cliente 971,Empresa Agro,Santa Fe,Rosario,Contratista,2024.12.01
+972,Cliente 972,Contratista,Chaco,Villa Ángela,Pequeño productor,s/d
+973,Cliente 973,Contratista,Salta,Metán,Pequeño productor,2024-01-04
+974,Cliente 974,Productor,Sal Ta,Metán,Contratista,2024-06-17
+975,Cliente 975,Empresa Agro,Córdoba,Villa María,Contratista,s/d
+976,Cliente 976,Contratista,Salta,Metán,Contratista,2024-09-04
+977,Cliente 977,Contratista,cordoba,Río Cuarto,,2024-09-04
+978,Cliente 978,Empresa Agro,Córdoba,Río Cuarto,,2024.08.10
+979,Cliente 979,Productor,SANTIAGO,Bandera,Gran productor,2024-05-20
+980,Cliente 980,Empresa Agro,Córdoba,Río Cuarto,Pequeño productor,2024-08-16
+981,Cliente 981,Empresa Agro,Córdoba,Río Cuarto,Pequeño productor,2024-02-24
+982,Cliente 982,Empresa Agro,Chaco,Charata,Gran productor,s/d
+983,Cliente 983,Productor,CBA,Villa María,Pequeño productor,s/d
+984,Cliente 984,Contratista,Salta,Metán,Pequeño productor,2024-01-16
+985,Cliente 985,Productor,chaco,Resistencia,Pequeño productor,2024-02-23
+986,Cliente 986,Productor,Salta,Metán,Mediano productor,2024-09-06
+987,Cliente 987,Productor,Sal Ta,Güemes,Contratista,2024-06-06
+988,Cliente 988,Empresa Agro,Santa Fe,Rafaela,Pequeño productor,2024-08-07
+989,Cliente 989,Empresa Agro,Santiago del Estero,Quimilí,,2024-04-14
+990,Cliente 990,Contratista,Chaco,Resistencia,Gran productor,2024-05-22
+991,Cliente 991,Productor,Córdoba,Villa María,Pequeño productor,2024-02-17
+992,Cliente 992,Productor,Santa Fe,Rafaela,,2024-06-03
+993,Cliente 993,Contratista,Sta Fe,Rafaela,Pequeño productor,2024-08-10
+994,Cliente 994,Productor,salta,Güemes,Contratista,2024-02-16
+995,Cliente 995,Empresa Agro,Córdoba,Villa María,Contratista,2024-10-04
+996,Cliente 996,Productor,Chaco,Villa Ángela,Pequeño productor,s/d
+997,Cliente 997,Productor,Santiago del Estero,Quimilí,Mediano productor,2024-11-25
+998,Cliente 998,Productor,Santiago del Estero,Bandera,Gran productor,2024-11-17
+999,Cliente 999,Empresa Agro,chaco,Charata,Pequeño productor,2024-11-10
+1000,Cliente 1000,Empresa Agro,Santiago del Estero,Quimilí,Gran productor,2024-07-09

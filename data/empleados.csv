@@ -1,0 +1,61 @@
+EmpleadoID,NombreEmpleado,Puesto,SucursalID,FechaIngreso,Activo
+1,Empleado 1,Jefe de Sucursal,4,2024-01-11,Sí
+2,Empleado 2,Vendedor,1,2024-12-20,Sí
+3,Empleado 3,Jefe de Sucursal,3,2023-10-01,Sí
+4,Empleado 4,Administrativo,4,2024-12-04,No
+5,Empleado 5,Administrativo,1,2024-01-08,Sí
+6,Empleado 6,Administrativo,4,2024-07-18,Sí
+7,Empleado 7,Vendedor,2,2024-02-24,Sí
+8,Empleado 8,Jefe de Sucursal,2,2023-01-10,No
+9,Empleado 9,Vendedor Senior,4,2024-03-06,No
+10,Empleado 10,Jefe de Sucursal,3,2024-06-30,Sí
+11,Empleado 11,Administrativo,3,2024-09-19,Sí
+12,Empleado 12,Administrativo,3,2024-06-18,Sí
+13,Empleado 13,Vendedor Senior,4,2024-07-31,Sí
+14,Empleado 14,Vendedor Senior,1,2024-11-28,Sí
+15,Empleado 15,Jefe de Sucursal,1,2024-12-27,Sí
+16,Empleado 16,Administrativo,1,2023-11-26,Sí
+17,Empleado 17,Vendedor Senior,3,2024-07-03,Sí
+18,Empleado 18,Vendedor,3,2024-05-01,Sí
+19,Empleado 19,Administrativo,1,2023-05-29,No
+20,Empleado 20,Vendedor,1,2024-09-16,No
+21,Empleado 21,Administrativo,1,2023-06-16,Sí
+22,Empleado 22,Administrativo,2,2024-05-01,Sí
+23,Empleado 23,Vendedor,3,2023-01-03,No
+24,Empleado 24,Jefe de Sucursal,3,2024-10-05,Sí
+25,Empleado 25,Vendedor Senior,4,2024-10-22,Sí
+26,Empleado 26,Administrativo,2,2023-03-13,Sí
+27,Empleado 27,Jefe de Sucursal,4,2023-08-23,Sí
+28,Empleado 28,Vendedor,2,2024-01-17,Sí
+29,Empleado 29,Administrativo,3,2023-08-20,Sí
+30,Empleado 30,Vendedor Senior,1,2024-05-09,Sí
+31,Empleado 31,Vendedor Senior,3,2023-02-27,No
+32,Empleado 32,Jefe de Sucursal,1,2023-04-10,Sí
+33,Empleado 33,Jefe de Sucursal,4,2023-03-17,Sí
+34,Empleado 34,Administrativo,2,2023-12-22,No
+35,Empleado 35,Vendedor Senior,1,2024-01-26,No
+36,Empleado 36,Jefe de Sucursal,4,2023-08-14,No
+37,Empleado 37,Jefe de Sucursal,3,2024-05-04,Sí
+38,Empleado 38,Jefe de Sucursal,4,2023-10-26,Sí
+39,Empleado 39,Jefe de Sucursal,2,2024-10-18,No
+40,Empleado 40,Administrativo,4,2023-01-07,No
+41,Empleado 41,Jefe de Sucursal,3,2024-08-03,Sí
+42,Empleado 42,Jefe de Sucursal,3,2023-03-14,Sí
+43,Empleado 43,Vendedor,1,2023-01-25,Sí
+44,Empleado 44,Vendedor Senior,3,2023-07-27,Sí
+45,Empleado 45,Vendedor,2,2024-12-27,Sí
+46,Empleado 46,Vendedor,4,2024-04-16,Sí
+47,Empleado 47,Vendedor,1,2024-01-14,No
+48,Empleado 48,Vendedor,2,2023-03-19,Sí
+49,Empleado 49,Administrativo,1,2023-06-24,Sí
+50,Empleado 50,Vendedor,3,2023-07-16,Sí
+51,Empleado 51,Administrativo,1,2024-05-24,Sí
+52,Empleado 52,Vendedor Senior,1,2024-11-16,Sí
+53,Empleado 53,Jefe de Sucursal,4,2024-09-19,No
+54,Empleado 54,Vendedor,2,2023-10-30,Sí
+55,Empleado 55,Vendedor Senior,2,2023-10-19,Sí
+56,Empleado 56,Vendedor,2,2024-03-09,No
+57,Empleado 57,Vendedor Senior,4,2024-03-21,Sí
+58,Empleado 58,Jefe de Sucursal,3,2024-08-31,Sí
+59,Empleado 59,Jefe de Sucursal,2,2023-07-09,No
+60,Empleado 60,Jefe de Sucursal,3,2023-11-18,Sí

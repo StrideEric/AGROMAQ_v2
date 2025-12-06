@@ -1,0 +1,50 @@
+# .gitignore - proyecto Power BI (genérico)
+# Ignora archivos temporales, binarios grandes y configuraciones locales.
+# Asegurar que colors.json se incluya en el repositorio:
+!/colors.json
+!colors.json
+colors.json
+
+# Datos generados / caches
+*.cache
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Conexiones/credenciales locales
+*.credentials
+*.secrets
+*.secret
+*.pbiuserdata
+
+# Carpetas de Visual Studio / VS Code / IDEs
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Node / npm
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Archivos binarios/compilados
+bin/
+obj/
+dist/
+build/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales de editores
+*~ 
+*.swp
+*.lock

@@ -1,0 +1,351 @@
+ProductoID,TipoProducto,CategoriaProducto,Marca,ModeloNombre,PrecioLista
+1001,Maquinaria,Tractor, AGROMETAL ,Modelo X,3.784.347
+1002,Maquinaria,Sembradora,Agrometal,Modelo A300,2858895
+1003,Maquinaria,Cosechadora, JOHN DEERE ,Modelo P100,1879022
+1004,Maquinaria,Cosechadora, METALFOR ,Serie 6J   ,5.513.654
+1005,Maquinaria,Sembradora, METALFOR ,Modelo P100,4.352.979
+1006,Maquinaria,Sembradora,Agrometal,Modelo X,3390702
+1007,Maquinaria,Tracotr,PLA,Modelo P100   ,$2376482
+1008,Maquinaria,Sembradora,John Deere,Modelo A300   ,3398954
+1009,Maquinaria,Implemento,Metalfor,Serie 5E,
+1010,Maquinaria,Cosechadora,Metalfor,Modelo P100,$2123044
+1011,Maquinaria,Pulverizadora,John Deere,Modelo A300,5277845
+1012,Maquinaria,motor,Metalfor,Modelo X,1917397
+1013,Maquinaria,Sembradora,PLA,Serie 6J,$4213159
+1014,Maquinaria,Tracotr,Agrometal,Modelo X,3815067
+1015,Maquinaria,Tracotr, METALFOR ,Modelo P100,1.874.963
+1016,Maquinaria,Implemento, PLA ,Modelo A300,2707839
+1017,Maquinaria,Cosechadora,PLA,Serie 5E,
+1018,Maquinaria,Pulverizadora,Agrometal,Modelo A300,$4131044
+1019,Maquinaria,Tracotr,Metalfor,Modelo A300   ,3.411.827
+1020,Maquinaria,Pulverizadora,John Deere,Modelo A300,1605716
+1021,Maquinaria,Cosechadora,Agrometal,Modelo P100   ,4403471
+1022,Maquinaria,Tractor,Metalfor,Modelo P100,$2133242
+1023,Maquinaria,Sembradora,Metalfor,Modelo A300   ,4220715
+1024,Maquinaria,Pulverizadora, METALFOR ,Modelo P100,2698833
+1025,Maquinaria,Hidrualico,PLA,Serie 5E,
+1026,Maquinaria,Sembradora,John Deere,Serie 5E,5.466.875
+1027,Maquinaria,Sembradora,John Deere,Serie 5E,2224707
+1028,Maquinaria,Cosechadora, AGROMETAL ,Serie 6J,4.858.203
+1029,Maquinaria,Sembradora,Metalfor,Modelo A300,$4536911
+1030,Maquinaria,Tractor,PLA,Modelo A300,$3884159
+1031,Maquinaria,Tractor,Metalfor,Modelo X,1599402
+1032,Maquinaria,Pulverizadora,Metalfor,Modelo X,$2596374
+1033,Maquinaria,Tractor,Agrometal,Modelo X,$3284789
+1034,Maquinaria,Implemento,Metalfor,Serie 6J,5836109
+1035,Maquinaria,motor, AGROMETAL ,Modelo A300   ,$1779711
+1036,Maquinaria,Implemento, PLA ,Serie 5E,5100718
+1037,Maquinaria,Tractor,Agrometal,Serie 5E   ,3.354.501
+1038,Maquinaria,Pulverizadora,Metalfor,Serie 5E,3.857.015
+1039,Maquinaria,Pulverizadora,PLA,Serie 6J,3626732
+1040,Maquinaria,Sembradora,PLA,Serie 6J   ,$3675848
+1041,Maquinaria,Cosechadora, JOHN DEERE ,Modelo P100,
+1042,Maquinaria,Cosechadora, AGROMETAL ,Serie 5E   ,$1730975
+1043,Maquinaria,Sembradora,PLA,Modelo P100,3.112.712
+1044,Maquinaria, , JOHN DEERE ,Serie 6J   ,3.357.055
+1045,Maquinaria,Pulverizadora,Metalfor,Serie 5E,5.815.793
+1046,Maquinaria,Cosechadora,Metalfor,Serie 6J,2592183
+1047,Maquinaria,Implemento,PLA,Serie 6J,3572371
+1048,Maquinaria,motor,John Deere,Modelo A300,$3934803
+1049,Maquinaria,Tractor,John Deere,Serie 6J,5521443
+1050,Maquinaria,Tractor,PLA,Serie 5E,2749457
+1051,Maquinaria,Sembradora,Metalfor,Serie 6J,5261918
+1052,Maquinaria,Pulverizadora,Agrometal,Serie 6J,$2315502
+1053,Maquinaria,Tractor,Agrometal,Modelo X,4.723.399
+1054,Maquinaria,Tractor,John Deere,Modelo X,5796396
+1055,Maquinaria,Implemento,John Deere,Modelo P100,$3023885
+1056,Maquinaria,Hidrualico,Metalfor,Modelo A300,2809996
+1057,Maquinaria,Tractor,Metalfor,Modelo P100,3.968.425
+1058,Maquinaria,Sembradora,John Deere,Serie 5E,$4322467
+1059,Maquinaria,Pulverizadora, JOHN DEERE ,Serie 6J,
+1060,Maquinaria,Sembradora,Metalfor,Serie 6J,2514132
+1061,Maquinaria,Repuest,PLA,Modelo P100,3232503
+1062,Maquinaria,Pulverizadora, JOHN DEERE ,Serie 5E   ,5214790
+1063,Maquinaria,Cosechadora, METALFOR ,Modelo A300,4831092
+1064,Maquinaria, , JOHN DEERE ,Modelo P100,1673659
+1065,Maquinaria,motor, JOHN DEERE ,Serie 6J,2540120
+1066,Maquinaria,Pulverizadora,John Deere,Modelo A300,3.726.590
+1067,Maquinaria,Hidrualico,Metalfor,Modelo A300,$2931292
+1068,Maquinaria,Cosechadora, AGROMETAL ,Serie 6J,$5862331
+1069,Maquinaria,Tracotr,Agrometal,Serie 6J,$2618434
+1070,Maquinaria,Cosechadora,PLA,Serie 6J,
+1071,Maquinaria,Tracotr,PLA,Modelo A300,2.654.989
+1072,Maquinaria,Tractor, METALFOR ,Serie 5E,$3213294
+1073,Maquinaria,Repuest, METALFOR ,Serie 5E,$2144185
+1074,Maquinaria,Tractor,Agrometal,Serie 6J,
+1075,Maquinaria,Tractor,Agrometal,Serie 6J   ,5631085
+1076,Maquinaria,Cosechadora,Agrometal,Serie 5E,1903952
+1077,Maquinaria,Tractor,John Deere,Modelo X,4511863
+1078,Maquinaria,Pulverizadora,Metalfor,Serie 6J,$3038182
+1079,Maquinaria,Pulverizadora,John Deere,Modelo A300,4144850
+1080,Maquinaria,Cosechadora, METALFOR ,Modelo P100,$4891953
+1081,Maquinaria,Sembradora,PLA,Modelo A300,$1599252
+1082,Maquinaria,Tractor, METALFOR ,Modelo P100,3994026
+1083,Maquinaria,Hidrualico,Metalfor,Modelo P100   ,4364638
+1084,Maquinaria,motor,Metalfor,Modelo X,4017000
+1085,Maquinaria,motor, PLA ,Modelo A300,5561054
+1086,Maquinaria,Tractor,John Deere,Serie 5E   ,$1915983
+1087,Maquinaria,Tractor,Agrometal,Modelo A300,4.582.998
+1088,Maquinaria,Tractor,Metalfor,Modelo A300,
+1089,Maquinaria,motor,PLA,Modelo X,
+1090,Maquinaria,Sembradora,Metalfor,Modelo P100   ,
+1091,Maquinaria,Implemento, PLA ,Modelo P100   ,1566807
+1092,Maquinaria,Pulverizadora,Agrometal,Modelo P100,
+1093,Maquinaria,,Metalfor,Modelo P100,2.348.839
+1094,Maquinaria,Implemento,Metalfor,Modelo X,$4456178
+1095,Maquinaria,Tractor,Agrometal,Modelo X,5.022.274
+1096,Maquinaria,Tractor, PLA ,Modelo A300   ,4886402
+1097,Maquinaria,Cosechadora,Metalfor,Modelo P100,5047976
+1098,Maquinaria,Implemento,John Deere,Serie 5E   ,4057127
+1099,Maquinaria,Pulverizadora,Agrometal,Modelo P100,4696039
+1100,Maquinaria,Repuest,PLA,Modelo P100,4.182.444
+1101,Maquinaria, ,Metalfor,Modelo A300,3.462.131
+1102,Maquinaria,Cosechadora,John Deere,Serie 5E,2.020.318
+1103,Maquinaria,Sembradora,Metalfor,Serie 5E,4.866.204
+1104,Maquinaria, , PLA ,Modelo P100,4.553.676
+1105,Maquinaria,Sembradora,Agrometal,Modelo A300,$5968024
+1106,Maquinaria,Sembradora,John Deere,Modelo A300,3469042
+1107,Maquinaria,Cosechadora, METALFOR ,Serie 6J,5257778
+1108,Maquinaria,Implemento,John Deere,Serie 5E,2769806
+1109,Maquinaria,Sembradora,Agrometal,Modelo X,2240541
+1110,Maquinaria,Tractor,Metalfor,Modelo A300   ,
+1111,Maquinaria,Implemento,PLA,Modelo P100   ,2489704
+1112,Maquinaria,Implemento,Agrometal,Modelo P100,$3761801
+1113,Maquinaria,Implemento,John Deere,Serie 5E   ,
+1114,Maquinaria,Cosechadora,Agrometal,Serie 5E,5780568
+1115,Maquinaria,Sembradora, JOHN DEERE ,Modelo X,$2085070
+1116,Maquinaria,Pulverizadora,Metalfor,Serie 5E,$5049508
+1117,Maquinaria,Sembradora, JOHN DEERE ,Serie 6J   ,5249528
+1118,Maquinaria,Sembradora, AGROMETAL ,Serie 5E,4050461
+1119,Maquinaria,Pulverizadora,PLA,Modelo P100,2.123.515
+1120,Maquinaria,Tractor,Metalfor,Serie 5E   ,
+1121,Repuesto,Hidráulico,OEM,Repuesto -79,$65187
+1122,Repuesto,Eléctrico, OEM ,Repuesto -78   ,
+1123,Repuesto,Hidráulico, OEM ,Repuesto -77,$71193
+1124,Repuesto,Motor,OEM,Repuesto -76,188.618
+1125,Repuesto,Motor, OEM ,Repuesto -75,$122654
+1126,Repuesto,Transmisión,Genérica,Repuesto -74,385.179
+1127,Repuesto,Hidráulico,John Deere Parts,Repuesto -73,285373
+1128,Repuesto,Hidráulico, JOHN DEERE PARTS ,Repuesto -72,$337741
+1129,Repuesto, ,OEM,Repuesto -71,31.287
+1130,Repuesto,Filtros,Genérica,Repuesto -70,142646
+1131,Repuesto, ,Genérica,Repuesto -69,$155784
+1132,Repuesto,Motor,John Deere Parts,Repuesto -68,$86207
+1133,Repuesto,Eléctrico,Genérica,Repuesto -67   ,
+1134,Repuesto,Hidráulico, OEM ,Repuesto -66,304.411
+1135,Repuesto,Eléctrico,Genérica,Repuesto -65,174503
+1136,Repuesto,Motor,Genérica,Repuesto -64   ,
+1137,Repuesto,Filtros, GENÉRICA ,Repuesto -63,375.678
+1138,Repuesto,motor,John Deere Parts,Repuesto -62,
+1139,Repuesto,Hidráulico,OEM,Repuesto -61,237.771
+1140,Repuesto,Motor,OEM,Repuesto -60,$301683
+1141,Repuesto,Eléctrico, GENÉRICA ,Repuesto -59   ,$312213
+1142,Repuesto,Motor,Genérica,Repuesto -58,
+1143,Repuesto,Motor,Genérica,Repuesto -57,$194895
+1144,Repuesto,Eléctrico,OEM,Repuesto -56   ,$386635
+1145,Repuesto,Motor,John Deere Parts,Repuesto -55,81.505
+1146,Repuesto,Eléctrico,OEM,Repuesto -54   ,394313
+1147,Repuesto,Motor,John Deere Parts,Repuesto -53   ,$373155
+1148,Repuesto,Transmisión,John Deere Parts,Repuesto -52,344756
+1149,Repuesto,Motor, JOHN DEERE PARTS ,Repuesto -51,47.156
+1150,Repuesto,Transmisión,John Deere Parts,Repuesto -50,$161504
+1151,Repuesto,Eléctrico,John Deere Parts,Repuesto -49,260.363
+1152,Repuesto,Motor,OEM,Repuesto -48,252350
+1153,Repuesto,Transmisión,OEM,Repuesto -47   ,
+1154,Repuesto,Transmisión,Genérica,Repuesto -46,$122289
+1155,Repuesto,Repuest,OEM,Repuesto -45,
+1156,Repuesto,Hidráulico,Genérica,Repuesto -44,$186989
+1157,Repuesto,Eléctrico,Genérica,Repuesto -43,
+1158,Repuesto,Eléctrico,OEM,Repuesto -42   ,177.687
+1159,Repuesto,Hidráulico,OEM,Repuesto -41,387.182
+1160,Repuesto,Eléctrico, JOHN DEERE PARTS ,Repuesto -40   ,$43403
+1161,Repuesto,Motor, JOHN DEERE PARTS ,Repuesto -39,$236425
+1162,Repuesto,Hidráulico,Genérica,Repuesto -38   ,336872
+1163,Repuesto,Motor,Genérica,Repuesto -37   ,384185
+1164,Repuesto,Motor,OEM,Repuesto -36,32709
+1165,Repuesto,Transmisión,John Deere Parts,Repuesto -35,$300123
+1166,Repuesto,Transmisión,John Deere Parts,Repuesto -34   ,$265954
+1167,Repuesto,, GENÉRICA ,Repuesto -33   ,$135243
+1168,Repuesto,Motor,John Deere Parts,Repuesto -32,$217830
+1169,Repuesto,Motor,John Deere Parts,Repuesto -31,145.694
+1170,Repuesto,Eléctrico,OEM,Repuesto -30,359.500
+1171,Repuesto,Eléctrico,OEM,Repuesto -29,264213
+1172,Repuesto,Filtros,Genérica,Repuesto -28,$374680
+1173,Repuesto,Tracotr,Genérica,Repuesto -27,229.517
+1174,Repuesto,Transmisión,OEM,Repuesto -26,216.943
+1175,Repuesto,Transmisión,Genérica,Repuesto -25   ,334697
+1176,Repuesto,Filtros, GENÉRICA ,Repuesto -24,$256192
+1177,Repuesto,Motor, JOHN DEERE PARTS ,Repuesto -23,$223669
+1178,Repuesto,Hidráulico,Genérica,Repuesto -22,$32396
+1179,Repuesto,Eléctrico,OEM,Repuesto -21,
+1180,Repuesto,Filtros, OEM ,Repuesto -20,385013
+1181,Repuesto,Eléctrico,Genérica,Repuesto -19,325227
+1182,Repuesto,Motor,John Deere Parts,Repuesto -18,376898
+1183,Repuesto,Hidráulico,John Deere Parts,Repuesto -17,351.852
+1184,Repuesto,Hidráulico,Genérica,Repuesto -16,
+1185,Repuesto,Eléctrico, OEM ,Repuesto -15,119685
+1186,Repuesto,Hidráulico, OEM ,Repuesto -14,156607
+1187,Repuesto,Motor,OEM,Repuesto -13,147592
+1188,Repuesto,Transmisión,Genérica,Repuesto -12,76501
+1189,Repuesto,Transmisión,John Deere Parts,Repuesto -11,$150582
+1190,Repuesto,Hidráulico,John Deere Parts,Repuesto -10,149314
+1191,Repuesto,Hidráulico,OEM,Repuesto -9,$345671
+1192,Repuesto,Transmisión,Genérica,Repuesto -8,316122
+1193,Repuesto,Transmisión,Genérica,Repuesto -7,$67074
+1194,Repuesto,Hidráulico, GENÉRICA ,Repuesto -6,322324
+1195,Repuesto,Transmisión,Genérica,Repuesto -5   ,160340
+1196,Repuesto,Repuest,John Deere Parts,Repuesto -4,$212489
+1197,Repuesto,Filtros,OEM,Repuesto -3   ,
+1198,Repuesto,Hidráulico, OEM ,Repuesto -2   ,263864
+1199,Repuesto,Eléctrico,John Deere Parts,Repuesto -1   ,$86192
+1200,Repuesto,Filtros,John Deere Parts,Repuesto 0,271.984
+1201,Repuesto,Eléctrico, OEM ,Repuesto 1,160534
+1202,Repuesto,Eléctrico,OEM,Repuesto 2   ,261.634
+1203,Repuesto,motor,John Deere Parts,Repuesto 3,141.975
+1204,Repuesto,Filtros,John Deere Parts,Repuesto 4   ,123575
+1205,Repuesto,motor, JOHN DEERE PARTS ,Repuesto 5   ,$392153
+1206,Repuesto,Eléctrico,OEM,Repuesto 6,371614
+1207,Repuesto,Eléctrico,John Deere Parts,Repuesto 7,305291
+1208,Repuesto,Motor,OEM,Repuesto 8,$394279
+1209,Repuesto,Eléctrico, GENÉRICA ,Repuesto 9,$208611
+1210,Repuesto,,John Deere Parts,Repuesto 10,195905
+1211,Repuesto,Transmisión,OEM,Repuesto 11,$263866
+1212,Repuesto,Eléctrico,OEM,Repuesto 12,71.672
+1213,Repuesto,Hidráulico, GENÉRICA ,Repuesto 13,
+1214,Repuesto,motor, JOHN DEERE PARTS ,Repuesto 14,53560
+1215,Repuesto,Eléctrico, GENÉRICA ,Repuesto 15,$161530
+1216,Repuesto,Eléctrico, JOHN DEERE PARTS ,Repuesto 16   ,$117002
+1217,Repuesto,Motor, OEM ,Repuesto 17,
+1218,Repuesto,Eléctrico, JOHN DEERE PARTS ,Repuesto 18,131.363
+1219,Repuesto,Hidráulico,Genérica,Repuesto 19,
+1220,Repuesto,Eléctrico,OEM,Repuesto 20,96.288
+1221,Repuesto,Hidráulico, JOHN DEERE PARTS ,Repuesto 21   ,283860
+1222,Repuesto,Motor,John Deere Parts,Repuesto 22,$112406
+1223,Repuesto,Transmisión,John Deere Parts,Repuesto 23,366893
+1224,Repuesto,, GENÉRICA ,Repuesto 24,107.363
+1225,Repuesto,Transmisión,John Deere Parts,Repuesto 25   ,323.193
+1226,Repuesto,Transmisión, OEM ,Repuesto 26,$50771
+1227,Repuesto,Filtros, OEM ,Repuesto 27   ,$43567
+1228,Repuesto,Filtros,OEM,Repuesto 28,$121759
+1229,Repuesto,Eléctrico,OEM,Repuesto 29,154615
+1230,Repuesto,Filtros,Genérica,Repuesto 30,$125015
+1231,Repuesto,Transmisión,OEM,Repuesto 31,$57975
+1232,Repuesto,Hidráulico,OEM,Repuesto 32   ,
+1233,Repuesto,Filtros,Genérica,Repuesto 33,255159
+1234,Repuesto,Eléctrico,John Deere Parts,Repuesto 34   ,188882
+1235,Repuesto,Transmisión,OEM,Repuesto 35,$398849
+1236,Repuesto,Eléctrico,John Deere Parts,Repuesto 36,303285
+1237,Repuesto,Eléctrico, OEM ,Repuesto 37   ,$57745
+1238,Repuesto,Transmisión,OEM,Repuesto 38,74.128
+1239,Repuesto,Eléctrico,OEM,Repuesto 39,58875
+1240,Repuesto,Hidráulico,OEM,Repuesto 40,$42899
+1241,Repuesto,Eléctrico,OEM,Repuesto 41,359049
+1242,Repuesto,Hidráulico, GENÉRICA ,Repuesto 42,
+1243,Repuesto,Filtros,OEM,Repuesto 43   ,292350
+1244,Repuesto,Motor,John Deere Parts,Repuesto 44,294596
+1245,Repuesto,Hidráulico,John Deere Parts,Repuesto 45   ,
+1246,Repuesto,Motor, JOHN DEERE PARTS ,Repuesto 46   ,218512
+1247,Repuesto,Filtros,Genérica,Repuesto 47,129628
+1248,Repuesto,Transmisión,John Deere Parts,Repuesto 48,80671
+1249,Repuesto,Motor,OEM,Repuesto 49,$112314
+1250,Repuesto,Filtros, JOHN DEERE PARTS ,Repuesto 50,199157
+1251,Repuesto,Motor,OEM,Repuesto 51   ,$261947
+1252,Repuesto,Motor,OEM,Repuesto 52,362564
+1253,Repuesto,Motor,OEM,Repuesto 53   ,171.656
+1254,Repuesto,Filtros,OEM,Repuesto 54,
+1255,Repuesto,Hidrualico, GENÉRICA ,Repuesto 55   ,274730
+1256,Repuesto,Hidráulico,OEM,Repuesto 56   ,$205368
+1257,Repuesto,Motor,Genérica,Repuesto 57,41.302
+1258,Repuesto,Filtros,Genérica,Repuesto 58,308959
+1259,Repuesto,Motor, OEM ,Repuesto 59,$28209
+1260,Repuesto,Motor,Genérica,Repuesto 60,$298642
+1261,Repuesto,Hidráulico,John Deere Parts,Repuesto 61,173.339
+1262,Repuesto,Filtros, GENÉRICA ,Repuesto 62,$311351
+1263,Repuesto,Eléctrico, GENÉRICA ,Repuesto 63,$323823
+1264,Repuesto,,John Deere Parts,Repuesto 64,315.719
+1265,Repuesto,Filtros,OEM,Repuesto 65,387585
+1266,Repuesto,Transmisión, OEM ,Repuesto 66,21174
+1267,Repuesto,Filtros,OEM,Repuesto 67,395306
+1268,Repuesto,Eléctrico,John Deere Parts,Repuesto 68,
+1269,Repuesto,Transmisión,John Deere Parts,Repuesto 69,312.989
+1270,Repuesto,Motor,OEM,Repuesto 70,277200
+1271,Repuesto,Eléctrico,John Deere Parts,Repuesto 71   ,119102
+1272,Repuesto,Filtros, JOHN DEERE PARTS ,Repuesto 72   ,119736
+1273,Repuesto,Transmisión,John Deere Parts,Repuesto 73,38401
+1274,Repuesto,Eléctrico, OEM ,Repuesto 74,
+1275,Repuesto,Transmisión,Genérica,Repuesto 75,385088
+1276,Repuesto,Eléctrico, JOHN DEERE PARTS ,Repuesto 76,$398483
+1277,Repuesto,Filtros,Genérica,Repuesto 77,152252
+1278,Repuesto,Hidráulico,OEM,Repuesto 78,327300
+1279,Repuesto,Transmisión,Genérica,Repuesto 79   ,375468
+1280,Repuesto,Motor,John Deere Parts,Repuesto 80,96516
+1281,Repuesto,Filtros,OEM,Repuesto 81,223897
+1282,Repuesto,Motor,Genérica,Repuesto 82,221958
+1283,Repuesto,Filtros,OEM,Repuesto 83,
+1284,Repuesto,Hidráulico,John Deere Parts,Repuesto 84,399968
+1285,Repuesto,Eléctrico,OEM,Repuesto 85,295045
+1286,Repuesto,Hidráulico,OEM,Repuesto 86,46053
+1287,Repuesto,Eléctrico,Genérica,Repuesto 87,296695
+1288,Repuesto,Hidrualico, OEM ,Repuesto 88,26.737
+1289,Repuesto,Filtros, OEM ,Repuesto 89   ,$46339
+1290,Repuesto,Motor,OEM,Repuesto 90,$244771
+1291,Repuesto, ,Genérica,Repuesto 91   ,
+1292,Repuesto,Motor,OEM,Repuesto 92,80736
+1293,Repuesto,Hidráulico, OEM ,Repuesto 93,$39365
+1294,Repuesto,Motor,John Deere Parts,Repuesto 94,$126505
+1295,Repuesto,Eléctrico,Genérica,Repuesto 95,59.076
+1296,Repuesto,Filtros,John Deere Parts,Repuesto 96,
+1297,Repuesto,Repuest,Genérica,Repuesto 97   ,$178018
+1298,Repuesto,Tracotr, OEM ,Repuesto 98,258302
+1299,Repuesto,Filtros,OEM,Repuesto 99,
+1300,Repuesto,Filtros, GENÉRICA ,Repuesto 100,145883
+1085,Maquinaria,Sembradora,PLA,Modelo A300,$5561054
+1218,Repuesto,Eléctrico, JOHN DEERE PARTS ,Repuesto 18,131363
+1212,Repuesto,Eléctrico,OEM,Repuesto 12,71.672
+1287,Repuesto,Eléctrico,Genérica,Repuesto 87,$296695
+1032,Maquinaria,Pulverizadora, METALFOR ,Modelo X,2596374
+1135,Repuesto, ,Genérica,Repuesto -65,174503
+1202,Repuesto,Eléctrico,OEM,Repuesto 2,261634
+1249,Repuesto,Repuest,OEM,Repuesto 49,$112314
+1017,Maquinaria,Cosechadora,PLA,Serie 5E,2425241
+1178,Repuesto,Hidráulico,Genérica,Repuesto -22   ,$32396
+1026,Maquinaria,Sembradora,John Deere,Serie 5E,5.466.875
+1110,Maquinaria,Tractor,Metalfor,Modelo A300   ,5699641
+1252,Repuesto,Hidrualico,OEM,Repuesto 52,
+1084,Maquinaria,Tractor,Metalfor,Modelo X,4017000
+1068,Maquinaria,Cosechadora,Agrometal,Serie 6J,5862331
+1116,Maquinaria,Pulverizadora, METALFOR ,Serie 5E,5.049.508
+1255,Repuesto,Eléctrico,Genérica,Repuesto 55,274730
+1228,Repuesto,Filtros,OEM,Repuesto 28,121759
+1155,Repuesto,Motor,OEM,Repuesto -45   ,$168080
+1062,Maquinaria,Pulverizadora,John Deere,Serie 5E,
+1066,Maquinaria,Pulverizadora,John Deere,Modelo A300,3726590
+1230,Repuesto, ,Genérica,Repuesto 30   ,125015
+1197,Repuesto,Filtros,OEM,Repuesto -3,$351942
+1119,Maquinaria,Pulverizadora,PLA,Modelo P100,$2123515
+1164,Repuesto,Motor,OEM,Repuesto -36,
+1216,Repuesto,Eléctrico,John Deere Parts,Repuesto 16,$117002
+1079,Maquinaria,Pulverizadora, JOHN DEERE ,Modelo A300,4144850
+1104,Maquinaria,Pulverizadora, PLA ,Modelo P100,
+1214,Repuesto,Hidráulico,John Deere Parts,Repuesto 14,$53560
+1006,Maquinaria,Sembradora, AGROMETAL ,Modelo X,3390702
+1258,Repuesto,Tracotr,Genérica,Repuesto 58,308.959
+1201,Repuesto,Eléctrico,OEM,Repuesto 1,160534
+1103,Maquinaria,Sembradora,Metalfor,Serie 5E,4.866.204
+1039,Maquinaria,Pulverizadora,PLA,Serie 6J,3.626.732
+1226,Repuesto,Transmisión,OEM,Repuesto 26,
+1285,Repuesto,Eléctrico,OEM,Repuesto 85,295045
+1181,Repuesto,Eléctrico, GENÉRICA ,Repuesto -19,325.227
+1242,Repuesto,Hidráulico,Genérica,Repuesto 42   ,
+1167,Repuesto,Motor,Genérica,Repuesto -33,135243
+1127,Repuesto,Hidráulico,John Deere Parts,Repuesto -73   ,$285373
+1143,Repuesto,Tracotr,Genérica,Repuesto -57,194895
+1109,Maquinaria,Sembradora,Agrometal,Modelo X,2240541
+1298,Repuesto,Hidrualico,OEM,Repuesto 98   ,258.302
+1204,Repuesto,Filtros,John Deere Parts,Repuesto 4,123575
+1133,Repuesto,Eléctrico,Genérica,Repuesto -67,134561
+1131,Repuesto,Motor,Genérica,Repuesto -69,155.784
+1048,Maquinaria,Implemento,John Deere,Modelo A300,3934803
+1007,Maquinaria,Pulverizadora,PLA,Modelo P100,2.376.482
+1128,Repuesto,Hidráulico,John Deere Parts,Repuesto -72,337741
+1244,Repuesto,Motor, JOHN DEERE PARTS ,Repuesto 44,294.596
